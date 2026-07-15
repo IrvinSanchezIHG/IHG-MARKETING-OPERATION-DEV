@@ -1,0 +1,17 @@
+07/15/2026______________________________________________________________________________
+
+Data Team Known Issues (Expected 0 sends)
+GLO_LFC_2ndStayOffer10k20kComp_RegionalJapan_1423351_T1_20250421 (Expected behavior)
+
+Delays - Check using query (0 in the table):
+⁠GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 11,830)
+GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 5,921)
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 6,259)
+GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 120)
+GLO_LFC_PCSRP26K_20262701_20260518 (Real Number 84)
+GLO_LFC_PCSRP26L_20262701_20260518 (Real Number 955)
+
+0s to review 
+NEW_GLO_LFC_2ndStayOffer10k20kComp_Global_1423351_T1_20250421 (Today appear has 0 but have small audience for the past days that 0 is expected?)
+New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Today appear has 0 but 0s has happpen in past dates, this is the second date with 0's is this expected?)
+

@@ -1,0 +1,667 @@
+
+06/02/2026______________________________________________________________________________
+
+Journey 0s
+GLO_LFC_1stStayOfferBook_1486100_B1_20250403
+GLO_LFC_2ndStayOffer10k20kBkg_RegionalJapan_1423351_B1_20250411
+GLO_LFC_2ndStayOffer10k20kComp_RegionalJapan_1423351_T1_20250421
+
+Journey Known Issue (Data Team)
+GLO_LFC_1stStayOfferReg_1486100_A1_20250331
+GLO_LFC_1stStayOfferRegReminder_1486100_A2_20250408
+NEW_GLO_LFC_2ndStayOffer10k20kReg_Global_1423351_A1_20250408
+GLO_LFC_2ndStayOffer10k20kReg_Global_1423351_A2_20250415
+
+Jouney Stoped 0s 
+GLO_LFC_2ndStayOffer10k20kBkg_Global_1423351_B1_20250411
+
+Journey Delay
+GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 After (Query Excecution  real number 9948)
+GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Query Excecution  real number 4349)
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Query Excecution  real number 7369)
+
+
+
+-Final Message ESSR Daily Sends
+Hi Raunak/Kamaria here is the notes for today:
+ 
+0 Sends Notes
+-GLO_LFC_1stStayOfferBook_1486100_B1_20250403 - 0 sends on 06/01. Is this expected?
+-GLO_LFC_2ndStayOffer10k20kBkg_RegionalJapan_1423351_B1_20250411 - 0 sends on 06/01. Is this expected?
+-GLO_LFC_2ndStayOffer10k20kComp_RegionalJapan_1423351_T1_20250421 - 0 sends on 06/01. Is this expected?
+Spike:
+-GLO_LFC_Lifecycle-Anniversary_Offer_Booking_Reminder_2YR - Increased from 166 to 229 (about 38% jump)
+-New_GLO_LFC_Milestone-Rewards_Expiration_CSU_64_Days - Increased from  319 to 423 (about 33%)
+
+
+06/03/2026______________________________________________________________________________
+
+Spike:
+
+Drops:
+GLO_LFC_Lifecycle-Anniversary_Offer_Registration_25YR - Drop from 120 to 65
+GLO_LFC_Lifecycle-Cobrand_2024 - Drop from 33,142 to 14,885 
+GLO_LFC_Milestone_Rewards_Choice_Confirmation_20252238_20260304 - Drop 6,384 to 3,456
+
+
+-Final Message ESSR Daily Sends:
+
+Hi good morning team, 
+Raunak/Kamaria here is the notes for today:
+ 
+Drop:
+GLO_LFC_Lifecycle-Anniversary_Offer_Registration_25YR - Drop from 120 to 65 is normal? 
+
+06/04/2026______________________________________________________________________________
+
+Expected 0 sends
+GLO_LFC_1stStayOfferBook_1486100_B1_20250403 (Confirmed by Raunak yesterday)
+GLO_LFC_2ndStayOffer10k20kComp_RegionalJapan_1423351_T1_20250421 (Confirmed by Raunak yesterday)
+ 
+ 
+Delays - Check using query (0 in the table):
+GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210
+GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930
+
+
+Drops:
+MCP Abandoned Cart Omni-Channel - Drop from 7,401 to 4,983
+
+
+
+06/05/2026______________________________________________________________________________
+
+
+Data Team Known Issues (Expected 0 sends)
+GLO_LFC_1stStayOfferBook_1486100_B1_20250403 (Confirmed by Raunak 02/07/26)
+GLO_LFC_2ndStayOffer10k20kComp_RegionalJapan_1423351_T1_20250421 (Confirmed by Raunak 02/07/26)
+GLO_LFC_2ndStayOffer10k20kReg_Global_1423351_A2_20250415 (Confirmed by Raunak 05/25/26)
+New_GLO_LFC_Milestone-Rewards_Expiration_ALM (0 eligible records)
+GLO_LFC_2ndStayOffer10k20kBkg_Global_1423351_B1_20250411 (Jouney Stoped - Confirmed by Raunak 01/07/26)
+ 
+Delays - Check using query (0 in the table):
+GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 11,347)
+GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 5,004)
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 5,165)
+
+0s Pending to review:
+
+
+Spike:
+GLO_LFC_Redemption_LargePointBalance_1386000_A1_20241115 (From 200 to 263 is normal? - Confirmed by Raunak 06/05/26)  
+
+Drops:
+
+
+
+06/08/2026______________________________________________________________________________
+
+
+Data Team Known Issues (Expected 0 sends)
+GLO_LFC_1stStayOfferBook_1486100_B1_20250403 (Confirmed by Raunak 02/07/26 on Teams Chat)
+GLO_LFC_2ndStayOffer10k20kBkg_Global_1423351_B1_20250411 (Jouney Stoped - Confirmed by Raunak 01/07/26)
+GLO_LFC_2ndStayOffer10k20kComp_RegionalJapan_1423351_T1_20250421 (Confirmed by Raunak 02/07/26 on Teams Chat)
+GLO_LFC_2ndStayOffer10k20kReg_Global_1423351_A2_20250415 (Confirmed by Raunak 05/25/26 on Teams Chat)
+
+Delays - Check using query (0 in the table):
+GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 11,109)
+GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 4,069)
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 6,583)
+
+0s To review
+GLO_LFC_NextStay10k_20k_Reg_20262649_20260514_Push (Apper 0 today and 06/05, last confirmation from 0s was 05/31 by Raunak on Teams Chat, journey appear with audience (8) this is normal or expected?)
+
+(Ya since its push you might see 0 counts on some days since the audience is small
+Let me know when its 2-3 days consecutive)
+
+Spike:
+GLO_LFC_Lifecycle-Anniversary_Offer_Registration_5YR (Spike from 2,888 to 3,795 - 31.41% )
+GLO_LFC_RedemptionQualifiedReward_1386000_A1_20241112 (Spike from 2,163 to 4,138 - 91.31% )
+
+Drops:
+GLO_LFC_Milestone-Rewards_Reminder_60_20252238_20251223 (Drop from 2,476 on 06/05 to 685 on 06/08, 853 on 06/07 and 1,203 06/06 )
+MCP Abandoned Cart Omni-Channel (Drop from 1,940 to 1,561 - Push)
+MCP Abandoned Cart Omni-Channel (Drop from 5,475 to 4,167 - Email)
+
+06/09/2026______________________________________________________________________________
+
+Data Team Known Issues (Expected 0 sends)
+GLO_LFC_1stStayOfferBook_1486100_B1_20250403 (Confirmed by Raunak 02/07/26 on Teams Chat)
+GLO_LFC_2ndStayOffer10k20kBkg_Global_1423351_B1_20250411 (Jouney Stoped - Confirmed by Raunak 01/07/26)
+GLO_LFC_2ndStayOffer10k20kComp_RegionalJapan_1423351_T1_20250421 (Confirmed by Raunak 02/07/26 on Teams Chat)
+GLO_LFC_2ndStayOffer10k20kReg_Global_1423351_A2_20250415 (Confirmed by Raunak 05/25/26 on Teams Chat)
+
+Delays - Check using query (0 in the table):
+GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 10,406)
+GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 4,831)
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 9,150)
+
+0s To review
+NEW_GLO_LFC_2ndStayOffer10k20kReg_RegionalJapan_1423351_A1_20250408 (The audience is 0 in the Journey is this normal or expected? ) - Confirm by Raunak 06/09/26 on Teams Chat 
+New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Is normal to be 0 in the hitorical appear in 0 but the Journey Audience 2) - Occasionally, this journey is ok to be 0 so we can ignore it:
+
+Spike:
+GLO_LFC_Lifecycle-Million_Points_Celebrations_08162022 (Spike from 33 to 60 - 81.82%)
+
+
+06/10/2026______________________________________________________________________________
+
+
+Data Team Known Issues (Expected 0 sends)
+GLO_LFC_1stStayOfferBook_1486100_B1_20250403 (Confirmed by Raunak 02/07/26 on Teams Chat)
+GLO_LFC_2ndStayOffer10k20kBkg_Global_1423351_B1_20250411 (Jouney Stoped - Confirmed by Raunak 01/07/26)
+GLO_LFC_2ndStayOffer10k20kReg_Global_1423351_A2_20250415 (Confirmed by Raunak 05/25/26 on Teams Chat)
+NEW_GLO_LFC_2ndStayOffer10k20kReg_RegionalJapan_1423351_A1_20250408 (Confirm by Raunak 06/09/26 on Teams Chat) 
+
+
+Delays - Check using query (0 in the table):
+GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 10,406)
+GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 4,831)
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 9,150)
+
+0s To review
+NEW_GLO_LFC_Lifecycle-Anniversary_Offer_Completion_25YR (The history shows low sends it's nomal or expected 0s?)
+
+Spike:
+PreStay_prod (Spike from 694 to 1,185 - 70.75%)
+
+Drops:
+Achieved_Member_Choice_Issued_Deployment_2024 (Drop from 6,875 to 4,316 - 37.22%.)
+
+06/11/2026______________________________________________________________________________
+
+Data Team Known Issues (Expected 0 sends)
+GLO_LFC_1stStayOfferBook_1486100_B1_20250403 (Confirmed by Raunak 02/07/26 on Teams Chat)
+GLO_LFC_2ndStayOffer10k20kBkg_Global_1423351_B1_20250411 (Jouney Stoped - Confirmed by Raunak 01/07/26)
+GLO_LFC_2ndStayOffer10k20kComp_RegionalJapan_1423351_T1_20250421 ( Confirm by Raunak 06/02/26 on Teams Chat )
+GLO_LFC_2ndStayOffer10k20kReg_Global_1423351_A2_20250415 (Confirmed by Raunak 05/25/26 on Teams Chat)
+NEW_GLO_LFC_2ndStayOffer10k20kReg_RegionalJapan_1423351_A1_20250408 (Confirm by Raunak 06/09/26 on Teams Chat) 
+
+Delays - Check using query (0 in the table):
+GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 10,406)
+GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 4,831)
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 9,150)
+
+0s To review
+
+Spike:
+
+Drops:
+GLO_POS_PostStay_GE_Mbr_20260401_LIVE (Drop from 128 to 1)
+
+
+06/12/2026______________________________________________________________________________
+
+Data Team Known Issues (Expected 0 sends)
+GLO_LFC_1stStayOfferBook_1486100_B1_20250403 (Confirmed by Raunak 02/07/26 on Teams Chat)
+GLO_LFC_2ndStayOffer10k20kBkg_Global_1423351_B1_20250411 (Jouney Stoped - Confirmed by Raunak 01/07/26)
+GLO_LFC_2ndStayOffer10k20kComp_RegionalJapan_1423351_T1_20250421 ( Confirm by Raunak 06/02/26 on Teams Chat )
+NEW_GLO_LFC_2ndStayOffer10k20kReg_RegionalJapan_1423351_A1_20250408 (Confirm by Raunak 06/09/26 on Teams Chat) 
+
+Delays - Check using query (0 in the table):
+GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 10,860)
+GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 5,096)
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 5,157)
+
+0s To review
+GLO_LFC_NextStay10k_20k_Reg_20262649_20260514_Push (0 today last was 8/06/26 this happen for this journey is expected)
+
+Spike:
+
+Drops:
+Newly_Elite_Diamond_20231017 (Drop from 450 to 140 - 50.35%)
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Drop from 11,100 to 5,157 - 53.54%)
+
+
+06/19/2026______________________________________________________________________________
+
+
+Data Team Known Issues (Expected 0 sends)
+GLO_LFC_1stStayOfferBook_1486100_B1_20250403 (Confirmed by Raunak 02/07/26 on Teams Chat)
+GLO_LFC_2ndStayOffer10k20kBkg_Global_1423351_B1_20250411 (Jouney Stoped - Confirmed by Raunak 01/07/26)
+GLO_LFC_2ndStayOffer10k20kComp_RegionalJapan_1423351_T1_20250421 ( Confirm by Raunak 06/02/26 on Teams Chat )
+NEW_GLO_LFC_2ndStayOffer10k20kReg_RegionalJapan_1423351_A1_20250408 (Confirm by Raunak 06/09/26 on Teams Chat) 
+GLO_LFC_Campaign_A_NextStay10k_20kRegRem_20262649_20260521 (0 on 06/13 cofirm by Raunak 06/15 teams chat)
+GLO_LFC_2ndStayOffer10k20kReg_RegionalJapan_1423351_A2_20250415 (0s 3 days since 06/15 confirm by Raunak 06/17 ono teams chat)
+
+
+Delays - Check using query (0 in the table):
+GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 10698)
+GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 5385)
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 5738)
+GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 92)
+
+0s To review
+
+GLO_LFC_NextStay10k_20k_Reg_20262649_20260514_Push	(0s for two days consecutive, is that expected behavior?)
+GLO_LFC_NextStay10k_20k_Reg_20262649_20260514_Push	(Expected behavior?)
+GLO_POS_PostStay_GE_Mbr_20260401_LIVE (Expected behavior?)
+New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Expected behavior?)
+GLO_PRE_PreStay_GE_20260401_LIVE (Expected behavior?)
+
+Spike:
+
+Drops:
+GLO_LFC_2ndStayOffer10k20kBkg_OTA_1423351_B1_20250411 (Drop from 50 to 29, is that expected?)
+GLO_LFC_Lifecycle-Unique_Countries_Celebration (Drop from 90 to 60, is that expected?)
+
+
+06/23/2026______________________________________________________________________________
+
+
+Data Team Known Issues (Expected 0 sends)
+GLO_LFC_2ndStayOffer10k20kComp_RegionalJapan_1423351_T1_20250421 ( Confirm by Raunak 06/02/26 on Teams Chat )
+GLO_LFC_2ndStayOffer10k20kReg_RegionalJapan_1423351_A2_20250415 (Expected behavior)
+GLO_LFC_Educate_IHGOR_Benefits_Overview_V2 (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+GLO_LFC_Educate_Welcome_to_IHGOR_INN_Enrollee_v2 (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+GLO_LFC_Educate_Welcome_to_IHGOR_NonINN_Enrollee_v2 (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+GLO_LFC_NextStay10k_20k_Reg_20262649_20260514_Push	(Expected behavior)
+GLO_LFC_NextStay10k_20k_Reg_20262649_20260514_Push	(Expected behavior)
+NEW_GLO_LFC_2ndStayOffer10k20kReg_RegionalJapan_1423351_A1_20250408 (Expected behavior)
+NEW_GLO_LFC_Educate_How_to_Earn_Redeem_Points (I'ts already activated and for this report appear 0's tomoorrow will appear with numbers)
+New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Expected behavior)
+Point_Expiration_30days_Prod
+Point_Expiration_60days_prod
+Point_Expiration_7day_prod
+GLO_PRE_PreStay_GE_20260401_LIVE (Expected behavior)
+
+Delays - Check using query (0 in the table):
+GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 10421)
+GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 5424)
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 10204)
+GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 78)
+
+0s To review
+GLO_LFC_2ndStayOffer10k20kBkg_RegionalJapan_1423351_B1_20250411 (Another 0s for 06/19 is that expected?)
+GLO_LFC_EducateDE_WelcomeEnrollee_20252167_A1_20250626 (thre consecutrive 0s on 06/22, 06/21, 06/20 is expencted? )
+
+Spike:
+Non
+
+Drops:
+Non 
+
+
+06/24/2026______________________________________________________________________________
+
+
+Data Team Known Issues (Expected 0 sends)
+GLO_LFC_2ndStayOffer10k20kComp_RegionalJapan_1423351_T1_20250421 ( Confirm by Raunak 06/02/26 on Teams Chat )
+GLO_LFC_2ndStayOffer10k20kReg_RegionalJapan_1423351_A2_20250415 (Expected behavior)
+GLO_LFC_Educate_IHGOR_Benefits_Overview_V2 (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+GLO_LFC_Educate_Welcome_to_IHGOR_NonINN_Enrollee_v2 (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+GLO_LFC_NextStay10k_20k_Reg_20262649_20260514_Push	(Expected behavior)
+GLO_LFC_NextStay10k_20k_Reg_20262649_20260514_Push	(Expected behavior)
+NEW_GLO_LFC_2ndStayOffer10k20kReg_RegionalJapan_1423351_A1_20250408 (Expected behavior)
+NEW_GLO_LFC_Educate_How_to_Earn_Redeem_Points (I'ts already activated and for this report appear 0's tomoorrow will appear with numbers)
+New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Expected behavior)
+
+Delays - Check using query (0 in the table):
+GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 10956)
+GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 6892)
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 12167)
+GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 104)
+
+0s To review
+GLO_LFC_2ndStayOffer10k20kBkg_RegionalJapan_1423351_B1_20250411 (Another 0s for 06/19 is that expected?)
+GLO_LFC_EducateDE_WelcomeEnrollee_20252167_A1_20250626 (four consecutrive 0s on 06/23 06/22, 06/21, 06/20 is expencted? )
+
+Spike:
+GLO_LFC_Lifecycle-Anniversary_Offer_Booking_Reminder_20YR_25YR_PUSH	(Spike from 61 to 119 - Is expected?)
+
+Drops:
+GLO_LFC_Milestone_Rewards_Choice_Confirmation_20252238_20260304 (Drop from 7,098 to 3,723 | 47.55% - Is expected?)
+GLO_LFC_Redemption_LargePointBalance_1386000_A1_20241115_Push_v2 (Drop from 93 to 15 | 83.87% - Is expected?)
+Newly_Elite_Diamond_20231017 (Drop from 458 to 296 | 35.37% - Is expected?)
+
+
+06/25/2026______________________________________________________________________________
+
+
+Data Team Known Issues (Expected 0 sends)
+GLO_LFC_2ndStayOffer10k20kBkg_RegionalJapan_1423351_B1_20250411 (Expected behavior)
+GLO_LFC_2ndStayOffer10k20kComp_RegionalJapan_1423351_T1_20250421 ( Confirm by Raunak 06/02/26 on Teams Chat )
+GLO_LFC_2ndStayOffer10k20kReg_RegionalJapan_1423351_A2_20250415 (Expected behavior)
+GLO_LFC_Educate_IHGOR_Benefits_Overview_V2 (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+GLO_LFC_Educate_Welcome_to_IHGOR_INN_Enrollee_v2 (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+GLO_LFC_Educate_Welcome_to_IHGOR_NonINN_Enrollee_v2 (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+GLO_LFC_EducateDE_WelcomeEnrollee_20252167_A1_20250626 (data issue and it is now resolved - today appear 1,954 sends )
+GLO_LFC_NextStay10k_20k_Reg_20262649_20260514_Push	(Expected behavior)
+GLO_LFC_NextStay10k_20k_Reg_20262649_20260514_Push	(Expected behavior)
+NEW_GLO_LFC_2ndStayOffer10k20kReg_RegionalJapan_1423351_A1_20250408 (Expected behavior)
+NEW_GLO_LFC_Educate_How_to_Earn_Redeem_Points (I'ts already activated and for this report appear 0's tomoorrow will appear with numbers)
+
+Delays - Check using query (0 in the table):
+GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 12,537)
+GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 7,883)
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 10,966)
+GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 130)
+
+06/29/2026______________________________________________________________________________
+
+Data Team Known Issues (Expected 0 sends)
+GLO_LFC_2ndStayOffer10k20kBkg_RegionalJapan_1423351_B1_20250411 (Expected behavior)
+GLO_LFC_2ndStayOffer10k20kReg_RegionalJapan_1423351_A2_20250415 (Expected behavior)
+GLO_LFC_Educate_IHGOR_Benefits_Overview_V2 (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+GLO_LFC_Educate_Welcome_to_IHGOR_INN_Enrollee_v2 (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+GLO_LFC_Educate_Welcome_to_IHGOR_NonINN_Enrollee_v2 (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+GLO_LFC_NextStay10k_20k_Reg_20262649_20260514_Push	(Expected behavior)
+GLO_LFC_NextStay10k_20k_Reg_20262649_20260514_Push	(Expected behavior)
+NEW_GLO_LFC_2ndStayOffer10k20kReg_RegionalJapan_1423351_A1_20250408 (Expected behavior)
+New_GLO_LFC_Milestone-Rewards_Expiration_ALM ( 0 records due to no eligible records - Expected)
+
+Delays - Check using query (0 in the table):
+GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 11,558)
+GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 4,184)
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 5,509)
+GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 154)
+
+0s to check
+GLO_LFC_EducateJP_EarnRedeem_1274000_A1_20241023 (Consecuties 0's since 06/22 - is expected?)
+
+
+06/30/2026______________________________________________________________________________
+
+Data Team Known Issues (Expected 0 sends)
+GLO_LFC_2ndStayOffer10k20kBkg_RegionalJapan_1423351_B1_20250411 (Expected behavior)
+GLO_LFC_2ndStayOffer10k20kReg_RegionalJapan_1423351_A2_20250415 (Expected behavior)
+GLO_LFC_Educate_IHGOR_Benefits_Overview_V2 (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+GLO_LFC_Educate_Welcome_to_IHGOR_INN_Enrollee_v2 (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+GLO_LFC_Educate_Welcome_to_IHGOR_NonINN_Enrollee_v2 (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+GLO_LFC_NextStay10k_20k_Reg_20262649_20260514_Push	(Expected behavior)
+GLO_LFC_NextStay10k_20k_Reg_20262649_20260514_Push	(Expected behavior)
+NEW_GLO_LFC_2ndStayOffer10k20kReg_RegionalJapan_1423351_A1_20250408 (Expected behavior)
+New_GLO_LFC_Milestone-Rewards_Expiration_ALM ( 0 records due to no eligible records - Expected)
+GLO_LFC_EducateJP_EarnRedeem_1274000_A1_20241023 (this is expected because of removal of local version email (as we have stopped the AB testing))
+
+Delays - Check using query (0 in the table):
+GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 10,957)
+GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 5,442)
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 7,136)
+GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 166)
+
+0s to check
+
+Spike 
+GLO_LFC_Lifecycle-Anniversary_Offer_Booking_Reminder_25YR (Spike from 45 to 93)
+NEW_GLO_LFC_2ndStayOffer10k20kReg_OTA_1423351_A1_20250408 (Spike from 9,660 to 13,033)
+
+
+07/1/2026______________________________________________________________________________
+
+Data Team Known Issues (Expected 0 sends)
+GLO_LFC_2ndStayOffer10k20kBkg_RegionalJapan_1423351_B1_20250411 (Expected behavior)
+GLO_LFC_2ndStayOffer10k20kComp_RegionalJapan_1423351_T1_20250421 (Expected behavior)
+GLO_LFC_2ndStayOffer10k20kReg_RegionalJapan_1423351_A2_20250415 (Expected behavior)
+GLO_LFC_Educate_IHGOR_Benefits_Overview_V2 (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+GLO_LFC_Educate_Welcome_to_IHGOR_INN_Enrollee_v2 (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+GLO_LFC_Educate_Welcome_to_IHGOR_NonINN_Enrollee_v2 (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+GLO_LFC_NextStay10k_20k_Reg_20262649_20260514_Push	(Expected behavior)
+GLO_LFC_NextStay10k_20k_Reg_20262649_20260514_Push	(Expected behavior)
+NEW_GLO_LFC_2ndStayOffer10k20kReg_RegionalJapan_1423351_A1_20250408 (Expected behavior)
+New_GLO_LFC_Milestone-Rewards_Expiration_ALM ( 0 records due to no eligible records - Expected)
+GLO_LFC_EducateJP_EarnRedeem_1274000_A1_20241023 (this is expected because of removal of local version email (as we have stopped the AB testing))
+
+Delays - Check using query (0 in the table):
+GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 11,578)
+GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 6,573)
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 7,136)
+GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 129)
+
+
+07/2/2026______________________________________________________________________________
+
+Data Team Known Issues (Expected 0 sends)
+GLO_LFC_2ndStayOffer10k20kBkg_RegionalJapan_1423351_B1_20250411 (Expected behavior)
+GLO_LFC_2ndStayOffer10k20kComp_RegionalJapan_1423351_T1_20250421 (Expected behavior)
+GLO_LFC_2ndStayOffer10k20kReg_RegionalJapan_1423351_A2_20250415 (Expected behavior)
+GLO_LFC_EducateJP_BnftsOverview_1274000_A1_20241023 (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+Glo_LFC_JPWelcomeInnABLoc_20241552_B1_ (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+Glo_LFC_JPNonINNABLoc_20241552_B2_ (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+GLO_LFC_NextStay10k_20k_Reg_20262649_20260514_Push	(Expected behavior)
+GLO_LFC_NextStay10k_20k_Reg_20262649_20260514_Push	(Expected behavior)
+NEW_GLO_LFC_2ndStayOffer10k20kReg_RegionalJapan_1423351_A1_20250408 (Expected behavior)
+New_GLO_LFC_Milestone-Rewards_Expiration_ALM ( 0 records due to no eligible records - Expected)
+GLO_LFC_EducateJP_EarnRedeem_1274000_A1_20241023 (this is expected because of removal of local version email (as we have stopped the AB testing))
+
+Delays - Check using query (0 in the table):
+GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 12,056)
+GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 5,935)
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 4,503)
+GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 248)
+
+0s to review 
+
+
+Drops:
+
+
+Spike:
+
+
+07/3/2026______________________________________________________________________________
+
+Data Team Known Issues (Expected 0 sends)
+GLO_LFC_2ndStayOffer10k20kBkg_RegionalJapan_1423351_B1_20250411 (Expected behavior)
+GLO_LFC_2ndStayOffer10k20kComp_RegionalJapan_1423351_T1_20250421 (Expected behavior)
+GLO_LFC_2ndStayOffer10k20kReg_RegionalJapan_1423351_A2_20250415 (Expected behavior)
+GLO_LFC_EducateJP_BnftsOverview_1274000_A1_20241023 (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+Glo_LFC_JPWelcomeInnABLoc_20241552_B1_ (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+Glo_LFC_JPNonINNABLoc_20241552_B2_ (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+GLO_LFC_NextStay10k_20k_Reg_20262649_20260514_Push	(Expected behavior)
+GLO_LFC_NextStay10k_20k_Reg_20262649_20260514_Push	(Expected behavior)
+New_GLO_LFC_Milestone-Rewards_Expiration_ALM ( 0 records due to no eligible records - Expected)
+GLO_LFC_EducateJP_EarnRedeem_1274000_A1_20241023 (this is expected because of removal of local version email (as we have stopped the AB testing))
+
+Delays - Check using query (0 in the table):
+GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 12,056)
+GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 5,935)
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 4,503)
+GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 248)
+
+0s to review 
+-
+
+Drops:
+GLO_PRE_PreStay_GE_20260401_LIVE (Drop from 878 to 683 )
+GLO_LFC_Milestone-Rewards_Reminder_87_20252238_20251223 (Drop from 2,057 to 974)
+
+Spike:
+Nearly_Elite_Silver_Deployment_2026 (Spike from 2,979 to 4,883)
+GLO_POS_PostStay_Mbr_20260401_LIVE (Spike from 125,901 to 180,629)
+GLO_LFC_2ndStayOffer10k20kReg_OTA_1423351_A2_20250415 (Spike from 10,958 to 12,710)
+
+
+07/6/2026______________________________________________________________________________
+
+Data Team Known Issues (Expected 0 sends)
+GLO_LFC_2ndStayOffer10k20kBkg_RegionalJapan_1423351_B1_20250411 (Expected behavior)
+GLO_LFC_2ndStayOffer10k20kReg_RegionalJapan_1423351_A2_20250415 (Expected behavior)
+GLO_LFC_EducateJP_BnftsOverview_1274000_A1_20241023 (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+Glo_LFC_JPWelcomeInnABLoc_20241552_B1_ (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+Glo_LFC_JPNonINNABLoc_20241552_B2_ (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+GLO_LFC_NextStay10k_20k_Reg_20262649_20260514_Push	(Expected behavior)
+GLO_LFC_NextStay10k_20k_Reg_20262649_20260514_Push	(Expected behavior)
+New_GLO_LFC_Milestone-Rewards_Expiration_ALM ( 0 records due to no eligible records - Expected)
+GLO_LFC_EducateJP_EarnRedeem_1274000_A1_20241023 (this is expected because of removal of local version email (as we have stopped the AB testing))
+
+Delays - Check using query (0 in the table):
+GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 11,965)
+GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 4,625)
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 5,161)
+GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 178)
+
+
+0s to review 
+GLO_LFC_NextStay_Campaign_B_10k_20k_Reg_20262649_20260514_Push (Low send but is the fisrt 0 for this joureny - is expected?)
+
+Drops:
+- 
+
+Spike:
+IHG_DigitalCheckOut [AMER-prod ] ( Spike from 60,342 to 115,422 )
+IHG_DigitalCheckOut [AMER-prod ] ( Spike from 15,673 to 27,520 )
+
+
+07/07/2026______________________________________________________________________________
+
+Data Team Known Issues (Expected 0 sends)
+GLO_LFC_2ndStayOffer10k20kBkg_RegionalJapan_1423351_B1_20250411 (Expected behavior)
+GLO_LFC_EducateJP_BnftsOverview_1274000_A1_20241023 (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+Glo_LFC_JPWelcomeInnABLoc_20241552_B1_ (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+Glo_LFC_JPNonINNABLoc_20241552_B2_ (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+GLO_LFC_NextStay10k_20k_Reg_20262649_20260514_Push	(Expected behavior)
+GLO_LFC_NextStay10k_20k_Reg_20262649_20260514_Push	(Expected behavior)
+GLO_LFC_EducateJP_EarnRedeem_1274000_A1_20241023 (this is expected because of removal of local version email (as we have stopped the AB testing))
+
+Delays - Check using query (0 in the table):
+GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 11,965)
+GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 4,625)
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 5,161)
+GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 178)
+
+0s to review 
+-
+
+Drops:
+Achieved_Member_Choice_Issued_Deployment_2024 (Drop from 8475 to 4,267)
+
+Spike:
+-
+
+07/08/2026______________________________________________________________________________
+
+Data Team Known Issues (Expected 0 sends)
+GLO_LFC_2ndStayOffer10k20kBkg_RegionalJapan_1423351_B1_20250411 (Expected behavior)
+GLO_LFC_EducateJP_BnftsOverview_1274000_A1_20241023 (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+Glo_LFC_JPWelcomeInnABLoc_20241552_B1_ (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+Glo_LFC_JPNonINNABLoc_20241552_B2_ (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+GLO_LFC_EducateJP_EarnRedeem_1274000_A1_20241023 (this is expected because of removal of local version email (as we have stopped the AB testing))
+
+Delays - Check using query (0 in the table):
+GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 11,642)
+GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 5,809)
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 7,571)
+GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 103)
+GLO_LFC_PCSRP26K_20262701_20260518 (Real Number 84)
+GLO_LFC_PCSRP26L_20262701_20260518 (Real Number 1,053)
+
+0s to review 
+-
+
+Drops:
+MCP Abandoned Cart Omni-Channel	GLO_REV_AbandonCart_ (Drop from 2,358 to 1,481)
+MCP Abandoned Cart Omni-Channel	GLO_REV_AbandonCart_A1 (Drop from 7,094 to 4,790)
+GLO_LFC_Nurture_Tier_Maintain (Drop from 798 to 91 - Raunak mention somethign about tier mantaiin in the LFC deliveris group, it's related?)
+Achieved_Member_Choice_Issued_Deployment_2024 (Drop from 5,126 to 4,311)
+
+Spike:
+-
+
+
+07/09/2026______________________________________________________________________________
+
+Data Team Known Issues (Expected 0 sends)
+GLO_LFC_2ndStayOffer10k20kBkg_RegionalJapan_1423351_B1_20250411 (Expected behavior)
+GLO_LFC_2ndStayOffer10k20kComp_RegionalJapan_1423351_T1_20250421 (Expected behavior)
+GLO_LFC_EducateJP_BnftsOverview_1274000_A1_20241023 (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+Glo_LFC_JPWelcomeInnABLoc_20241552_B1_ (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+Glo_LFC_JPNonINNABLoc_20241552_B2_ (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+GLO_LFC_EducateJP_EarnRedeem_1274000_A1_20241023 (this is expected because of removal of local version email (as we have stopped the AB testing))
+
+Delays - Check using query (0 in the table):
+GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 13,278)
+GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 4,307)
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 2,968)
+GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 185)
+GLO_LFC_PCSRP26K_20262701_20260518 (Real Number 97)
+GLO_LFC_PCSRP26L_20262701_20260518 (Real Number 1,114)
+
+0s to review 
+New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Today appear has 0 but 0s has happpen in past dates is this expected?)
+
+Drops:
+
+
+Spike:
+-
+
+
+07/10/2026______________________________________________________________________________
+
+Data Team Known Issues (Expected 0 sends)
+GLO_LFC_2ndStayOffer10k20kBkg_RegionalJapan_1423351_B1_20250411 (Expected behavior)
+GLO_LFC_2ndStayOffer10k20kComp_RegionalJapan_1423351_T1_20250421 (Expected behavior)
+GLO_LFC_EducateJP_BnftsOverview_1274000_A1_20241023 (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+Glo_LFC_JPWelcomeInnABLoc_20241552_B1_ (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+Glo_LFC_JPNonINNABLoc_20241552_B2_ (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+GLO_LFC_EducateJP_EarnRedeem_1274000_A1_20241023 (this is expected because of removal of local version email (as we have stopped the AB testing))
+
+Delays - Check using query (0 in the table):
+GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 12,854)
+GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 5,895)
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 5,778)
+GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 112)
+GLO_LFC_PCSRP26K_20262701_20260518 (Real Number 98)
+GLO_LFC_PCSRP26L_20262701_20260518 (Real Number 792)
+
+0s to review 
+GLO_LFC_MR100NightsBook_20262702_20260706 (Today appear has 0 but 0s has happpen in past dates is this expected?)* Pending to review
+
+Drops:
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Drop from 5,778 to 2,968 is expected behavior?)
+GLO_LFC_18-24 Months_Inactive_Daily_26102023 (Drop from 67,492 to 48,240)
+GLO_LFC_Lifecycle-Cobrand_2024 (Drop from 10,147 to 2,856)
+
+
+Spike:
+-
+
+
+07/14/2026______________________________________________________________________________
+
+Data Team Known Issues (Expected 0 sends)
+GLO_LFC_2ndStayOffer10k20kComp_RegionalJapan_1423351_T1_20250421 (Expected behavior)
+GLO_LFC_EducateJP_BnftsOverview_1274000_A1_20241023 (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+Glo_LFC_JPWelcomeInnABLoc_20241552_B1_ (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+Glo_LFC_JPNonINNABLoc_20241552_B2_ (Know Issue confirm on teams chat 06/22 - appear as zero sends due to replacement of winning version email)
+GLO_LFC_EducateJP_EarnRedeem_1274000_A1_20241023 (this is expected because of removal of local version email (as we have stopped the AB testing))
+
+Delays - Check using query (0 in the table):
+GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 12,854)
+GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 5,895)
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 5,778)
+GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 112)
+GLO_LFC_PCSRP26K_20262701_20260518 (Real Number 98)
+GLO_LFC_PCSRP26L_20262701_20260518 (Real Number 792)
+
+0s to review 
+GLO_LFC_NextStay_Campaign_B_10k_20k_Reg_20262649_20260514_Push (Today appear has 0 but 0s has happpen in past dates is this expected?)
+GLO_LFC_Milestone-Rewards_Expiration_20252238_20251202_ (Today appear has 0 but 0s has happpen in past dates is this expected?)
+
+Drops:
+GLO_LFC_Milestone-Rewards_Reminder_7_20252238_20251223 (Drop from 4,713 to 2,814)
+
+
+Spike:
+GLO_LFC_MR100NightsBook_20262702_20260706 (Spike from 0 to 31)
+
+
+07/15/2026______________________________________________________________________________
+
+Data Team Known Issues (Expected 0 sends)
+GLO_LFC_2ndStayOffer10k20kComp_RegionalJapan_1423351_T1_20250421 (Expected behavior)
+
+Delays - Check using query (0 in the table):
+GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 12,854)
+GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 5,895)
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 5,778)
+GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 112)
+GLO_LFC_PCSRP26K_20262701_20260518 (Real Number 98)
+GLO_LFC_PCSRP26L_20262701_20260518 (Real Number 792)
+
+0s to review 
+NEW_GLO_LFC_2ndStayOffer10k20kComp_Global_1423351_T1_20250421 (Today appear has 0 but have small audience for the past days that 0 is expected?)
+New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Today appear has 0 but 0s has happpen in past dates, this is the second date with 0's is this expected?)
+
