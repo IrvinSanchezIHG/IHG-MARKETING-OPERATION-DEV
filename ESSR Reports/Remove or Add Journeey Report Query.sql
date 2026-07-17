@@ -595,6 +595,7 @@ WHERE
             ,'GLO_LFC_MR100NightsRegRem_20262702_20260702'
             ,'GLO_LFC_PCSRP26L_20262701_20260518'
             ,'GLO_LFC_PCSRP26K_20262701_20260518'
+            ,'GLO_LFC_Campaign_C_NextStay_10k_20k_Bkg_20262649_20260613'
         )
     ))
     
