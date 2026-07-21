@@ -736,3 +736,28 @@ Drops:
 Spike:
 -GLO_LFC_Milestone-Rewards_Reminder_14_20252238_20251223 (Spike on 07/18 from 4,872 to 8,952 - For 07/19 looks normal 4,011)
 -GLO_LFC_Milestone-Rewards_Reminder_7_20252238_20251223 (Spike on 07/18 from 4,748 to 7,093 - For 07/19 have 7,298 is expected?)
+
+07/21/2026______________________________________________________________________________
+
+Data Team Known Issues (Expected 0 sends)
+-GLO_LFC_2ndStayOffer10k20kComp_RegionalJapan_1423351_T1_20250421 (Today appears as 0, but 0s have happened in past dates; that is an expected behavior)
+-NEW_GLO_LFC_2ndStayOffer10k20kComp_Global_1423351_T1_20250421 (Show 0's, that is an expected behavior)
+-New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Today appears as 0, but 0s have happened in past dates; that is an expected behavior)
+
+
+Delays - Check using query (0 in the table):
+-⁠GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 12,179)
+-GLO_LFC_PCSRP26K_20262701_20260518 (Real Number 101)
+-GLO_LFC_PCSRP26L_20262701_20260518 (Real Number 912)
+-GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 154)
+-GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 5,363)
+-GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 5,551)
+
+0s to review:
+-None
+
+Drops:
+-None
+
+Spike:
+-None
