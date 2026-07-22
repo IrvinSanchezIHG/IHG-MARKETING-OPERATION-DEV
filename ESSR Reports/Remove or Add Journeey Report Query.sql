@@ -596,6 +596,7 @@ WHERE
             ,'GLO_LFC_PCSRP26L_20262701_20260518'
             ,'GLO_LFC_PCSRP26K_20262701_20260518'
             ,'GLO_LFC_Campaign_C_NextStay_10k_20k_Bkg_20262649_20260613'
+            ,'GLO_LFC_Campaign_C_NextStay10k_20k_RegRem_20262649_20260521'
         )
     ))
     
