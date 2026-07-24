@@ -1,10 +1,9 @@
-07/22/2026______________________________________________________________________________
+07/23/2026______________________________________________________________________________
 
 Data Team Known Issues (Expected 0 sends)
 -GLO_LFC_2ndStayOffer10k20kComp_RegionalJapan_1423351_T1_20250421 (Today appears as 0, but 0s have happened in past dates; that is an expected behavior)
 -NEW_GLO_LFC_2ndStayOffer10k20kComp_Global_1423351_T1_20250421 (Show 0's, that is an expected behavior)
 -New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Today appears as 0, but 0s have happened in past dates; that is an expected behavior)
-
 
 Delays - Check using query (0 in the table):
 -⁠GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 12,174)
@@ -18,9 +17,7 @@ Delays - Check using query (0 in the table):
 -None
 
 Drops:
--GLO_LFC_Lifecycle-Million_Points_Celebrations_08162022 (Spike from 43 to 16)
--GLO_LFC_Lifecycle-Anniversary_Offer_Booking_Reminder_4YR (Spike from 107 to 84)
+-Newly_Elite_Platinum_20231017 (Drop from 1,528 to 957)
 
 Spike:
--None
-
+-GLO_LFC_Campaign_A_NextStay_10k_20kReg_20262649_20260514 (Spike from 22,676 to 185,758)
