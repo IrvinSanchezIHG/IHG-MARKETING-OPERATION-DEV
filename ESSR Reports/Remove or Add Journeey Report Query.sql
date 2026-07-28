@@ -569,8 +569,7 @@ WHERE
             ,'Nearly_Elite_Gold_Deployment_2026'
             ,'Nearly_Elite_Platinum_Deployment_2026'
             ,'Nearly_Elite_Silver_Deployment_2026'
-            ,'GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930'
-            ,'Newly_Elite_Gold_20231017'
+            ,'GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930'            
             ,'Newly_Elite_Diamond_20231017'
             ,'Newly_Elite_Platinum_20231017'
             ,'GLO_LFC_Nurture_Tier_Maintain'
@@ -597,6 +596,8 @@ WHERE
             ,'GLO_LFC_Campaign_C_NextStay10k_20k_RegRem_20262649_20260521'
             ,'DC_FINAL_IHG_RS_LFC_NEWLY_ELITE_SILVER'
             ,'DigitalCheckIn_PROD'
+            ,'DC_FINAL_IHG_RS_LFC_NEWLY_ELITE_GOLD'
+
         )
     ))
     
