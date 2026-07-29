@@ -1,8 +1,8 @@
-07/28/2026______________________________________________________________________________
+07/29/2026______________________________________________________________________________
 
 Data Team Known Issues (Expected 0 sends)
--GLO_LFC_2ndStayOffer10k20kComp_RegionalJapan_1423351_T1_20250421 (Today appears as 0, but 0s have happened in past dates; that is an expected behavior)
--NEW_GLO_LFC_2ndStayOffer10k20kComp_Global_1423351_T1_20250421 (Show 0's, that is an expected behavior)
+-GLO_LFC_2ndStayOffer10k20kComp_RegionalJapan_1423351_T1_20250421 (Is an expected behavior)
+-NEW_GLO_LFC_2ndStayOffer10k20kComp_Global_1423351_T1_20250421 (Is an expected behavior)
 
 Delays - Check using query (0 in the table):
 -GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 11,571)
@@ -13,11 +13,10 @@ Delays - Check using query (0 in the table):
 -GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 5,320)
 
 0s to review:
--GLO_LFC_NextStay20kReg_20262649_20260514_Push_ (Today appears to have 0, last executions are low, is this 0 expected? )
+-None
 
 Drops:
 -None
 
 Spike:
 -None
-
