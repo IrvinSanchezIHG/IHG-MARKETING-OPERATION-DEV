@@ -1,4 +1,4 @@
-07/29/2026______________________________________________________________________________
+07/30/2026______________________________________________________________________________
 
 Data Team Known Issues (Expected 0 sends)
 -GLO_LFC_2ndStayOffer10k20kComp_RegionalJapan_1423351_T1_20250421 (Is an expected behavior)
@@ -13,10 +13,11 @@ Delays - Check using query (0 in the table):
 -GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 5,320)
 
 0s to review:
--None
+-NEW_GLO_LFC_2ndStayOffer10k20kComp_OTA_1423351_T1_20250421 (Today appears to have 0, last executions are low, 0 is expected?)
+-New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Today appears as 0, but 0s have happened in past dates; that is an expected behavior?)
 
 Drops:
--None
+-GLO_LFC_EducateDE_WelcomeEnrollee_20252167_A1_20250626 (Drop from 1,901 to 565, is that expencted?)
 
 Spike:
--None
+-GLO_LFC_Campaign_A_NextStay10k_20kRegRem_20262649_20260521 (Spike from 21,242 to 178,157, is that expected?)
