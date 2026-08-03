@@ -1,4 +1,4 @@
-07/31/2026______________________________________________________________________________
+08/03/2026______________________________________________________________________________
 
 Data Team Known Issues (Expected 0 sends)
 -GLO_LFC_2ndStayOffer10k20kComp_RegionalJapan_1423351_T1_20250421 (Is an expected behavior)
@@ -13,13 +13,10 @@ Delays - Check using query (0 in the table):
 -GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 5,774)
 
 0s to review:
--GLO_LFC_Educate_Evergreen App Offer Completion_T1 - V2
--NEW_GLO_LFC_Lifecycle-Anniversary_Offer_Completion_15YR
--NEW_GLO_LFC_Lifecycle-Anniversary_Offer_Completion_25YR
--NEW_GLO_LFC_Lifecycle-Anniversary_Offer_Completion_5YR
-
+-New_GLO_LFC_Milestone-Rewards_Expiration_ALM (0's Appear on 08/01 and 08/02 this Journey trend to be 0 but todays appears 0 consecutives, is that normal?)
 
 Drops:
+-
 
 Spike:
-
+-
