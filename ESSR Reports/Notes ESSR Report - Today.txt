@@ -3,21 +3,21 @@
 Data Team Known Issues (Expected 0 sends)
 -New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Is an expected behavior)
 -NEW_GLO_LFC_2ndStayOffer10k20kComp_Global_1423351_T1_20250421 (Is an expected behavior)
+-GLO_LFC_2ndStayOffer10k20kComp_RegionalJapan_1423351_T1_20250421 (Is an expected behavior)
 
 Delays - Check using query (0 in the table):
--GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 12,406)
--GLO_LFC_PCSRP26K_20262701_20260518 (Real Number 22)
--GLO_LFC_PCSRP26L_20262701_20260518 (Real Number 471)
--GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 141)
--GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 5,989)
--GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 6,202)
+-GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 13,408)
+-GLO_LFC_PCSRP26K_20262701_20260518 (Real Number 13)
+-GLO_LFC_PCSRP26L_20262701_20260518 (Real Number 237)
+-GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 130)
+-GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 7,422)
+-GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 7,822)
 
 0s to review:
--
+-GLO_LFC_Campaign_A_NextStay10k_20kRegRem_20262649_20260521
 
 Drops:
 -
 
 Spike:
 -
-
