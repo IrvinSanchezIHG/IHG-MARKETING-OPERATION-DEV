@@ -1098,3 +1098,29 @@ Spike:
         Due to a missed automation execution on August 5. A Salesforce Support case has been opened to investigate the issue. 
         The automation and affected journeys will be monitored over the next few days to confirm that reporting returns to normal.
         Case #474285545  
+
+
+08/10/2026______________________________________________________________________________
+
+Data Team Known Issues (Expected 0 sends)
+-New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Is an expected behavior)
+-NEW_GLO_LFC_2ndStayOffer10k20kComp_Global_1423351_T1_20250421 (Is an expected behavior)
+-GLO_LFC_2ndStayOffer10k20kComp_RegionalJapan_1423351_T1_20250421 (Is an expected behavior)
+-MCP Abandoned Cart Omni-Channel	GLO_REV_AbandonBrowse_A1__SubjectC (Is an expected behavior)
+
+Delays - Check using query (0 in the table):
+-GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 13,212)
+-GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 153)
+-GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 4,389)
+-GLO_LFC_PCSRP26K_20262701_20260518 (Real Number 51)
+-GLO_LFC_PCSRP26L_20262701_20260518 (Real Number 560)
+-GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 3,373)
+
+0s to review:
+- GLO_LFC_Educate_Evergreen App Offer Completion_T1 - V2
+
+Drops:
+- 
+
+Spike:
+-
