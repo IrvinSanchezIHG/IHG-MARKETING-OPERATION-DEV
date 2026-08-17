@@ -1,4 +1,4 @@
-08/14/2026______________________________________________________________________________
+08/17/2026______________________________________________________________________________
 
 Data Team Known Issues (Expected 0 sends)
 -New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Is an expected behavior)
@@ -9,25 +9,25 @@ Data Team Known Issues (Expected 0 sends)
 -GLO_LFC_1stStayOfferComp_1486100_T1_20250411 (Resently added, today appear as 0, this is expected)
 -GLO_LFC_PCSRP26K_20262701_20260518 (Stoped undefined, will be replaced for other jounreys)
 -GLO_LFC_PCSRP26L_20262701_20260518 (Stoped undefined, will be replaced for other jounreys)
+-GLO_LFC_EducateDE_WelcomeEnrollee_20252167_A1_20250626 (Stoped, will be replaced for other jounreys)
 
 Delays - Check using query (0 in the table):
--GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 12,544)
--GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 165)
--GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 5,467)
--GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 3,653)
+-GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 12,769)
+-GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 150)
+-GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 4,421)
+-GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 3,643)
+-GLO_LFC_PCSRP26K_20262701_20260518_A1 (Real number 63)
+-GLO_LFC_PCSRP26K_20262701_20260518_A2 (Real number 19)
+-GLO_LFC_PCSRP26K_20262701_20260518_A3 (Real number 15)
+-GLO_LFC_PCSRP26L_20262701_20260518_A1 (Real number 345)
+-GLO_LFC_PCSRP26L_20262701_20260518_A2 (Real number 227)
+-GLO_LFC_PCSRP26L_20262701_20260518_A3 (Real number 241)
 
 0s to review:
-
--GLO_LFC_Lifecycle- Birthday Offer Completion (Today and Yesterday appear as 0, for pass execution all loks good, reviewing the jounrey details we see 0 audience in the DE, this is expected?)
--PreStay_prod   GLO_PRE_PreStay_SX_20260401_LIVE (Posible deprecated email this was replaced by GLO_PRE_PreStay_SX_20260812_LIVE and shows expected behavior - Transactioonal journey pending to check with Kamaria)
+-
 
 Drops:
 -
 
 Spike:
 -
-
-Additional Comments
-The next journeys will be stopped to be restructured.
--GLO_LFC_PCSRP26K_20262701_20260518
--GLO_LFC_PCSRP26L_20262701_20260518
