@@ -1,4 +1,4 @@
-08/18/2026______________________________________________________________________________
+08/19/2026______________________________________________________________________________
 
 Data Team Known Issues (Expected 0 sends)
 -New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Is an expected behavior)
@@ -13,27 +13,24 @@ Data Team Known Issues (Expected 0 sends)
 -PreStay_prod-GLO_PRE_PreStay_SX_20260401_LIVE (Expected due to an update in the messages send; new name for these messages is: GLO_PRE_PreStay_SX_20260812_LIVE )
 
 Delays - Check using query (0 in the table):
--GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 11,675)
--GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 129)
--GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 5,084)
--GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 4,892)
--GLO_LFC_PCSRP26K_20262701_20260518_A1 (Real number 66)
--GLO_LFC_PCSRP26K_20262701_20260518_A2 (Real number 14)
--GLO_LFC_PCSRP26K_20262701_20260518_A3 (Real number 14)
--GLO_LFC_PCSRP26L_20262701_20260518_A1 (Real number 310)
--GLO_LFC_PCSRP26L_20262701_20260518_A2 (Real number 262)
--GLO_LFC_PCSRP26L_20262701_20260518_A3 (Real number 156)
+-GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 12,040)
+-GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 122)
+-GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 5,836)
+-GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 5,768)
+-GLO_LFC_PCSRP26K_20262701_20260518_A1 (Real number 65)
+-GLO_LFC_PCSRP26K_20262701_20260518_A2 (Real number 13)
+-GLO_LFC_PCSRP26K_20262701_20260518_A3 (Real number 10)
+-GLO_LFC_PCSRP26L_20262701_20260518_A1 (Real number 487)
+-GLO_LFC_PCSRP26L_20262701_20260518_A2 (Real number 288)
+-GLO_LFC_PCSRP26L_20262701_20260518_A3 (Real number 198)
 
 0s to review:
--
+-GLO_LFC_EducateDE_WelcomeEnrollee_20252167_A1_20250626 (Third consecute Day showing 0 on the reports, this is expected?)
 
 Drops:
 -
 
 Spike:
--
+-GLO_LFC_Lifecycle-Cobrand_2024 (Spike from 11,271 to 16,421, is that expected?)
 
-Addtional Notes:
-Keep Tracking this Messages to validate if still appears has 0.
--GLO_LFC_EducateDE_WelcomeEnrollee_20252167_A1_20250626	GLO_LFC_EducateDE_InnEnrollee_20252167_A1_20250626_	
--GLO_LFC_EducateDE_WelcomeEnrollee_20252167_A1_20250626	GLO_LFC_EducateDE_InnEnrollee_20252167_A1_2026_
+
