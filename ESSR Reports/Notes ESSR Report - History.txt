@@ -1340,3 +1340,46 @@ Drops:
 Spike:
 -GLO_LFC_Lifecycle-Cobrand_2024 (Spike from 11,271 to 16,421, is that expected?)
 
+
+
+08/20/2026______________________________________________________________________________
+
+Data Team Known Issues (Expected 0 sends)
+-New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Is an expected behavior)
+-NEW_GLO_LFC_2ndStayOffer10k20kComp_Global_1423351_T1_20250421 (Is an expected behavior)
+-GLO_LFC_2ndStayOffer10k20kComp_RegionalJapan_1423351_T1_20250421 (Is an expected behavior)
+-MCP Abandoned Cart Omni-Channel  GLO_REV_AbandonBrowse_A1__SubjectC (Is an expected behavior)
+-NEW_GLO_LFC_2ndStayOffer10k20kComp_OTA_1423351_T1_20250421 (Is an expected behavior)
+-GLO_LFC_1stStayOfferComp_1486100_T1_20250411 (Recently added, today appears as 0; this is expected)
+-GLO_LFC_PCSRP26K_20262701_20260518 (Stopped undefined, will be replaced for other jounreys)
+-GLO_LFC_PCSRP26L_20262701_20260518 (Stopped undefined, will be replaced for other jounreys)
+-GLO_LFC_EducateDE_WelcomeEnrollee_20252167_A1_20250626 (Stopped, will be replaced for other journeys)
+-PreStay_prod-GLO_PRE_PreStay_SX_20260401_LIVE (Expected due to an update in the messages send; new name for these messages is: GLO_PRE_PreStay_SX_20260812_LIVE )
+-GLO_LFC_NextStay_Campaign_B_10k_20k_Reg_20262649_20260514_Push (This is an expected behavior, last 0 was on 07/14)
+
+
+Delays - Check using query (0 in the table):
+-GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 13029)
+-GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 148)
+-GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 7159)
+-GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 7055)
+-GLO_LFC_PCSRP26K_20262701_20260518_A1 (Real number 59)
+-GLO_LFC_PCSRP26K_20262701_20260518_A2 (Real number 13)
+-GLO_LFC_PCSRP26K_20262701_20260518_A3 (Real number 0 | just for today - Waiting DATA)
+-GLO_LFC_PCSRP26L_20262701_20260518_A1 (Real number 487)
+-GLO_LFC_PCSRP26L_20262701_20260518_A2 (Real number 288)
+-GLO_LFC_PCSRP26L_20262701_20260518_A3 (Real number 0 | just for today - Waiting DATA)
+
+0s to review:
+GLO_LFC_MR100NightsReg_20262702_20260624 (Today this journey appears 0, the joureny have audience, is this expected?)
+
+Drops:
+-
+
+Spike:
+-GLO_LFC_Lifecycle-Cobrand_2024 (Spike from 11,271 to 16,421, is that expected?)
+
+
+Additional Notes:
+Keep Tracking this Messages to validate if still appears has 0.
+GLO_LFC_NextStay_Campaign_B_10k_20k_Reg_20262649_20260514_Push
