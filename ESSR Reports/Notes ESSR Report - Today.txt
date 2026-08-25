@@ -1,4 +1,4 @@
-08/24/2026______________________________________________________________________________
+08/25/2026______________________________________________________________________________
 
 Data Team Known Issues (Expected 0 sends)
 -New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Is an expected behavior)
@@ -16,14 +16,14 @@ Data Team Known Issues (Expected 0 sends)
 -GLO_LFC_PCSRP26L_20262701_20260518_A3 (Journey has no audience, no data for the next few days)
 
 Delays - Check using query (0 in the table):
--GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 12,466)
--GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 175)
--GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 4,317)
--GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 3,613)
--GLO_LFC_PCSRP26K_20262701_20260518_A1 (Real number 61)
--GLO_LFC_PCSRP26K_20262701_20260518_A2 (Real number 24)
--GLO_LFC_PCSRP26L_20262701_20260518_A1 (Real number 453)
--GLO_LFC_PCSRP26L_20262701_20260518_A2 (Real number 215)
+-GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 11,608)
+-GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 145)
+-GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 5,158)
+-GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 4,973)
+-GLO_LFC_PCSRP26K_20262701_20260518_A1 (Real number 64)
+-GLO_LFC_PCSRP26K_20262701_20260518_A2 (Real number 20)
+-GLO_LFC_PCSRP26L_20262701_20260518_A1 (Real number 390)
+-GLO_LFC_PCSRP26L_20262701_20260518_A2 (Real number 256)
 
 0s to review:
 -
@@ -32,7 +32,7 @@ Drops:
 -
 
 Spike:
--
+- Point_Expiration_30days_Prod - Increased from 58,258 to 85,001 (about 46% jump, is that expected?)
 
 
 Additional Notes:
