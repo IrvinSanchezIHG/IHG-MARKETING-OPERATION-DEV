@@ -1,4 +1,4 @@
-08/26/2026______________________________________________________________________________
+08/27/2026______________________________________________________________________________
 
 Data Team Known Issues (Expected 0 sends)
 -New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Is an expected behavior)
@@ -14,29 +14,30 @@ Data Team Known Issues (Expected 0 sends)
 -GLO_LFC_NextStay_Campaign_B_10k_20k_Reg_20262649_20260514_Push (This is an expected behavior, last 0 was on 07/14)
 -GLO_LFC_PCSRP26K_20262701_20260518_A3 (Journey has no audience, no data for the next few days)
 -GLO_LFC_PCSRP26L_20262701_20260518_A3 (Journey has no audience, no data for the next few days)
+-DigitalCheckIn_PROD (Confirmed by Kamaria on teams chat this is expected, jouneys will be paused for about a month)
 
 Delays - Check using query (0 in the table):
--GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 668)
--GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 123)
--GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 6,095)
--GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 5,924)
--GLO_LFC_PCSRP26K_20262701_20260518_A1 (Real number 77)
--GLO_LFC_PCSRP26K_20262701_20260518_A2 (Real number 19)
--GLO_LFC_PCSRP26L_20262701_20260518_A1 (Real number 548)
--GLO_LFC_PCSRP26L_20262701_20260518_A2 (Real number 280)
+-GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 12385)
+-GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 147)
+-GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 7,343)
+-GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 7,308)
+-GLO_LFC_PCSRP26K_20262701_20260518_A1 (Real number 72)
+-GLO_LFC_PCSRP26K_20262701_20260518_A2 (Real number 22)
+-GLO_LFC_PCSRP26L_20262701_20260518_A1 (Real number 271)
+-GLO_LFC_PCSRP26L_20262701_20260518_A2 (Real number 254)
 
 0s to review:
--DigitalCheckIn_PROD (No records on DE, is this expected?)
+-IHG_DigitalCheckOut [AMER-prod ] (No sends yesterday, today has sends, is this expected?)
 
 Drops:
--DC_FINAL_IHG_RS_LFC_NEWLY_ELITE_DIAMOND - Drop from 458 to 315 (about 31% drop, is that expected?)
--GLO_LFC_Educate_Evergreen App - A1 - Announcement - Launch from 7,456 to 5,649 (about 24% drop, is that expected?)
+-
 
 Spike:
-- Point_Expiration_30days_Prod - Increased from 58,258 to 85,001 (about 46% jump, is that expected?)
-
+-
 
 Additional Notes:
+
+
 
 
 
