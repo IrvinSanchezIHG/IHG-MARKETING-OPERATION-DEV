@@ -35,7 +35,6 @@ Spike:
 -
 
 Additional Notes:
-
 Point_Expiration_30days_Prod sends as usual.
 
 
