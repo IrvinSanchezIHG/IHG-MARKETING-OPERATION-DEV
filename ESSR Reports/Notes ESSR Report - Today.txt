@@ -1,4 +1,4 @@
-08/27/2026______________________________________________________________________________
+08/31/2026______________________________________________________________________________
 
 Data Team Known Issues (Expected 0 sends)
 -New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Is an expected behavior)
@@ -12,39 +12,30 @@ Data Team Known Issues (Expected 0 sends)
 -GLO_LFC_EducateDE_WelcomeEnrollee_20252167_A1_20250626 (Stopped, will be replaced for other journeys)
 -PreStay_prod-GLO_PRE_PreStay_SX_20260401_LIVE (Expected due to an update in the messages send; new name for these messages is: GLO_PRE_PreStay_SX_20260812_LIVE )
 -GLO_LFC_NextStay_Campaign_B_10k_20k_Reg_20262649_20260514_Push (This is an expected behavior, last 0 was on 07/14)
--GLO_LFC_PCSRP26K_20262701_20260518_A3 (Journey has no audience, no data for the next few days)
--GLO_LFC_PCSRP26L_20262701_20260518_A3 (Journey has no audience, no data for the next few days)
 -DigitalCheckIn_PROD (Confirmed by Kamaria on teams chat this is expected, jouneys will be paused for about a month)
 
 Delays - Check using query (0 in the table):
--GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 12385)
--GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 147)
--GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 7,343)
--GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 7,308)
--GLO_LFC_PCSRP26K_20262701_20260518_A1 (Real number 72)
--GLO_LFC_PCSRP26K_20262701_20260518_A2 (Real number 22)
--GLO_LFC_PCSRP26L_20262701_20260518_A1 (Real number 271)
--GLO_LFC_PCSRP26L_20262701_20260518_A2 (Real number 254)
+-GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 12,279)
+-GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 168)
+-GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 5,428)
+-GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 3,688)
+-GLO_LFC_PCSRP26K_20262701_20260518_A1 (Real number 61)
+-GLO_LFC_PCSRP26K_20262701_20260518_A2 (Real number 27)
+-GLO_LFC_PCSRP26L_20262701_20260518_A1 (Real number 337)
+-GLO_LFC_PCSRP26L_20262701_20260518_A2 (Real number 353)
+-GLO_LFC_PCSRP26K_20262701_20260518_A3 (Real number 15)
+-GLO_LFC_PCSRP26L_20262701_20260518_A3 (Real number 212)
 
 0s to review:
--IHG_DigitalCheckOut [AMER-prod ] (No sends yesterday, today has sends, is this expected?)
 
 Drops:
--
+-Day of Stay Push_2025 (From 19,426 to 15,496, is this expected?)
 
 Spike:
 -
 
 Additional Notes:
 
-
-
-
-
-
-
-
-
-
+Point_Expiration_30days_Prod sends as usual.
 
 
