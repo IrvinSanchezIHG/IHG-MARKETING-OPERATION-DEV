@@ -1669,6 +1669,45 @@ Additional Notes:
 Point_Expiration_30days_Prod sends as usual.
 
 
+09/01/2026______________________________________________________________________________
 
+Data Team Known Issues (Expected 0 sends)
+-New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Is an expected behavior)
+-NEW_GLO_LFC_2ndStayOffer10k20kComp_Global_1423351_T1_20250421 (Is an expected behavior)
+-GLO_LFC_2ndStayOffer10k20kComp_RegionalJapan_1423351_T1_20250421 (Is an expected behavior)
+-MCP Abandoned Cart Omni-Channel  GLO_REV_AbandonBrowse_A1__SubjectC (Is an expected behavior)
+-NEW_GLO_LFC_2ndStayOffer10k20kComp_OTA_1423351_T1_20250421 (Is an expected behavior)
+-GLO_LFC_1stStayOfferComp_1486100_T1_20250411 (Recently added, today appears as 0; this is expected)
+-GLO_LFC_PCSRP26K_20262701_20260518 (Stopped undefined, will be replaced for other jounreys)
+-GLO_LFC_PCSRP26L_20262701_20260518 (Stopped undefined, will be replaced for other jounreys)
+-GLO_LFC_EducateDE_WelcomeEnrollee_20252167_A1_20250626 (Stopped, will be replaced for other journeys)
+-PreStay_prod-GLO_PRE_PreStay_SX_20260401_LIVE (Expected due to an update in the messages send; new name for these messages is: GLO_PRE_PreStay_SX_20260812_LIVE )
+-GLO_LFC_NextStay_Campaign_B_10k_20k_Reg_20262649_20260514_Push (This is an expected behavior, last 0 was on 07/14)
+-DigitalCheckIn_PROD (Confirmed by Kamaria on teams chat this is expected, jouneys will be paused for about a month)
+
+Delays - Check using query (0 in the table):
+-GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 11,761)
+-GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 183)
+-GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 4,735)
+-GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 4,972)
+-GLO_LFC_PCSRP26K_20262701_20260518_A1 (Real number 66)
+-GLO_LFC_PCSRP26K_20262701_20260518_A2 (Real number 18)
+-GLO_LFC_PCSRP26L_20262701_20260518_A1 (Real number 359)
+-GLO_LFC_PCSRP26L_20262701_20260518_A2 (Real number 345)
+-GLO_LFC_PCSRP26K_20262701_20260518_A3 (Real number 12)
+-GLO_LFC_PCSRP26L_20262701_20260518_A3 (Real number 247)
+
+0s to review:
+
+Drops:
+-
+
+Spike:
+- GLO_LFC_18-24 Months_Inactive_Daily_26102023 - Increased from 71,879 to 94,672 (about 31% jump, is that expected?)
+- Point_Expiration_30days_Prod - Increased from 54,805 to 86,194 as last week (about 57% jump, Krishna and Conner told us last week that isn't an abnormal behavior)
+
+Additional Notes:
+
+- Internal team note: GLO_LFC_MR100NightsRegRem_20262702_20260702 - Increased from 968 to 550 (about 76% jump)
 
 

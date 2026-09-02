@@ -1,4 +1,4 @@
-08/31/2026______________________________________________________________________________
+09/01/2026______________________________________________________________________________
 
 Data Team Known Issues (Expected 0 sends)
 -New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Is an expected behavior)
@@ -15,26 +15,26 @@ Data Team Known Issues (Expected 0 sends)
 -DigitalCheckIn_PROD (Confirmed by Kamaria on teams chat this is expected, jouneys will be paused for about a month)
 
 Delays - Check using query (0 in the table):
--GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 12,279)
--GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 168)
--GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 5,428)
--GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 3,688)
--GLO_LFC_PCSRP26K_20262701_20260518_A1 (Real number 61)
--GLO_LFC_PCSRP26K_20262701_20260518_A2 (Real number 27)
--GLO_LFC_PCSRP26L_20262701_20260518_A1 (Real number 337)
--GLO_LFC_PCSRP26L_20262701_20260518_A2 (Real number 353)
--GLO_LFC_PCSRP26K_20262701_20260518_A3 (Real number 15)
--GLO_LFC_PCSRP26L_20262701_20260518_A3 (Real number 212)
+-GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 11,761)
+-GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 183)
+-GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 4,735)
+-GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 4,972)
+-GLO_LFC_PCSRP26K_20262701_20260518_A1 (Real number 66)
+-GLO_LFC_PCSRP26K_20262701_20260518_A2 (Real number 18)
+-GLO_LFC_PCSRP26L_20262701_20260518_A1 (Real number 359)
+-GLO_LFC_PCSRP26L_20262701_20260518_A2 (Real number 345)
+-GLO_LFC_PCSRP26K_20262701_20260518_A3 (Real number 12)
+-GLO_LFC_PCSRP26L_20262701_20260518_A3 (Real number 247)
 
 0s to review:
 
 Drops:
--Day of Stay Push_2025 (From 19,426 to 15,496, is this expected?)
-
-Spike:
 -
 
+Spike:
+- GLO_LFC_18-24 Months_Inactive_Daily_26102023 - Increased from 71,879 to 94,672 (about 31% jump, is that expected?)
+- Point_Expiration_30days_Prod - Increased from 54,805 to 86,194 as last week (about 57% jump, Krishna and Conner told us last week that isn't an abnormal behavior)
+
 Additional Notes:
-Point_Expiration_30days_Prod sends as usual.
 
-
+- Internal team note: GLO_LFC_MR100NightsRegRem_20262702_20260702 - Increased from 968 to 550 (about 76% jump)
