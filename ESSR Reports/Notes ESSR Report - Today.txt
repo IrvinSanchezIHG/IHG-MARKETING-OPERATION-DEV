@@ -1,4 +1,4 @@
-09/02/2026______________________________________________________________________________
+09/03/2026______________________________________________________________________________
 
 Data Team Known Issues (Expected 0 sends)
 -New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Is an expected behavior)
@@ -15,26 +15,27 @@ Data Team Known Issues (Expected 0 sends)
 -DigitalCheckIn_PROD (Confirmed by Kamaria on teams chat this is expected, jouneys will be paused for about a month)
 
 Delays - Check using query (0 in the table):
--GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 11,764)
--GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 136)
--GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 5,728)
--GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 6128)
--GLO_LFC_PCSRP26K_20262701_20260518_A1 (Real number 56)
--GLO_LFC_PCSRP26K_20262701_20260518_A2 (Real number 21)
--GLO_LFC_PCSRP26K_20262701_20260518_A3 (Real number 7)
--GLO_LFC_PCSRP26L_20262701_20260518_A1 (Real number 460)
--GLO_LFC_PCSRP26L_20262701_20260518_A2 (Real number 371)
--GLO_LFC_PCSRP26L_20262701_20260518_A3 (Real number 269)
+-GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 13,157)
+-GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 148)
+-GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 7,152)
+-GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 7,672)
+-GLO_LFC_PCSRP26K_20262701_20260518_A1 (Real number 48)
+-GLO_LFC_PCSRP26K_20262701_20260518_A2 (Real number 27)
+-GLO_LFC_PCSRP26K_20262701_20260518_A3 (Real number 14)
+-GLO_LFC_PCSRP26L_20262701_20260518_A1 (Real number 227)
+-GLO_LFC_PCSRP26L_20262701_20260518_A2 (Real number 320)
+-GLO_LFC_PCSRP26L_20262701_20260518_A3 (Real number 240)
 
 0s to review:
--GLO_LFC_Lifecycle-Anniversary_Offer_Registration_10YR (For 09/01 in the repoort appear 0, but inside the journey have 2.89K sends, this is expected?) - Possible Delay
+
 
 Drops:
--
+- GLO_LFC_Milestone_Rewards_Choice_Confirmation_20252238_20260304 - Drop 6,520 to 4,125 (about 36% drop, Based on historical trend, this drop is not a concern.)
+
 
 Spike:
--
+- GLO_LFC_Milestone-Rewards_Reminder_60_20252238_20251223 - Spike 3,130 to 5,869 (about 87% jump, is that expected?)
 
 Additional Notes:
-- Internal team note: GLO_LFC_MR100NightsRegRem_20262702_20260702 - Drop from 968 to 568 (Posible expected behavior - keep eye ono this for next days)
 
+- Internal team note: GLO_LFC_MR100NightsRegRem_20262702_20260702 - Drop again from 568 to 280 ( about 50% drop, Posible expected behavior - keep eye ono this for next days)
