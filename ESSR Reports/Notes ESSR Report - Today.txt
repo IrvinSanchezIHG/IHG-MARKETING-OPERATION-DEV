@@ -1,4 +1,4 @@
-09/08/2026______________________________________________________________________________
+09/09/2026______________________________________________________________________________
 
 Data Team Known Issues (Expected 0 sends)
 -New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Is an expected behavior)
@@ -15,30 +15,32 @@ Data Team Known Issues (Expected 0 sends)
 -DigitalCheckIn_PROD (Confirmed by Kamaria on teams chat this is expected, jouneys will be paused for about a month)
 
 Delays - Check using query (0 in the table):
--GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 1047)
--GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 149)
--GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 4,310)
--GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 4,748)
--GLO_LFC_PCSRP26K_20262701_20260518_A1 (Real number 33)
--GLO_LFC_PCSRP26K_20262701_20260518_A2 (Real number 17)
--GLO_LFC_PCSRP26K_20262701_20260518_A3 (Real number 14)
--GLO_LFC_PCSRP26L_20262701_20260518_A1 (Real number 340)
--GLO_LFC_PCSRP26L_20262701_20260518_A2 (Real number 277)
--GLO_LFC_PCSRP26L_20262701_20260518_A3 (Real number 231)
+-GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 11,233)
+-GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 108)
+-GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 5,513)
+-GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 6,857)
+-GLO_LFC_PCSRP26K_20262701_20260518_A1 (Real number 65)
+-GLO_LFC_PCSRP26K_20262701_20260518_A2 (Real number 21)
+-GLO_LFC_PCSRP26K_20262701_20260518_A3 (Real number 15)
+-GLO_LFC_PCSRP26L_20262701_20260518_A1 (Real number 459)
+-GLO_LFC_PCSRP26L_20262701_20260518_A2 (Real number 279)
+-GLO_LFC_PCSRP26L_20262701_20260518_A3 (Real number 261)
 
 0s to review:
 -
 
 Drops:
--
+-DC_FINAL_IHG_RS_LFC_NEWLY_ELITE_DIAMOND - Drop from 426 to 291 (about 31% drop, is that expected?)
+-DC_FINAL_IHG_RS_LFC_NEWLY_ELITE_GOLD - Drop from 1,087 to 688 (about 36% drop, is that expected?)
+-DC_FINAL_IHG_RS_LFC_NEWLY_ELITE_PLATINUM - Drop from 1,373 to 887 (about 35% drop, is that expected?)
 
 Spike:
-- 
+-GLO_LFC_RedemptionQualifiedReward_1386000_A1_20241112 (Spike from 2,738 to 3,934 - (about 43% jump))
+-PreStay_prod-GLO_PRE_PreStay_20260401_LIVE (Spike from 68,258 to 105,778 - (about 55% jump))
 
 Additional Notes:
+You can ignore these spikes — these journeys have shown this behavior in the past.
+DC_FINAL_IHG_RS_LFC_NEWLY_ELITE_DIAMOND, DC_FINAL_IHG_RS_LFC_NEWLY_ELITE_GOLD, and DC_FINAL_IHG_RS_LFC_NEWLY_ELITE_PLATINUM have dropped — we don't have sends queued, is that expected?
 
 - Internal team note: GLO_LFC_MR100NightsRegRem_20262702_20260702 - to continue with monitoring, today journey had 1,006 sends, keep an eye on it.
 - Internal team note: Raunak told us tha she will roll up Birthday Offer Completion on Wednesday. 
-
-
-
