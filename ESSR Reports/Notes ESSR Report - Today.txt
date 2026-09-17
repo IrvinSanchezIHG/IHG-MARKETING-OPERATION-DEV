@@ -1,4 +1,4 @@
-09/15/2026______________________________________________________________________________
+09/17/2026______________________________________________________________________________
 
 Data Team Known Issues (Expected 0 sends)
 -New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Is an expected behavior)
@@ -16,28 +16,26 @@ Data Team Known Issues (Expected 0 sends)
 -GLO_LFC_Campaign_A_NextStay_10k_20kReg_20262649_20260514 (Second consecutive day appears as 0, this journey  is waiting to make roll-up data; is this expected)
  
 Delays - Check using query (0 in the table):
--GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 10,737)
--GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 144)
--GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 4,489)
--GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 4,826)
--GLO_LFC_PCSRP26K_20262701_20260518_A1 (Real number 66)
--GLO_LFC_PCSRP26K_20262701_20260518_A2 (Real number 14)
--GLO_LFC_PCSRP26K_20262701_20260518_A3 (Real number 16)
--GLO_LFC_PCSRP26L_20262701_20260518_A1 (Real number 428)
--GLO_LFC_PCSRP26L_20262701_20260518_A2 (Real number 227)
--GLO_LFC_PCSRP26L_20262701_20260518_A3 (Real number 318)
+-GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 11,884
+-GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 150)
+-GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 6,310)
+-GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 6,764)
+-GLO_LFC_PCSRP26K_20262701_20260518_A1 (Real number 50)
+-GLO_LFC_PCSRP26K_20262701_20260518_A2 (Real number 13)
+-GLO_LFC_PCSRP26K_20262701_20260518_A3 (Real number 20)
+-GLO_LFC_PCSRP26L_20262701_20260518_A1 (Real number 429)
+-GLO_LFC_PCSRP26L_20262701_20260518_A2 (Real number 275)
+-GLO_LFC_PCSRP26L_20262701_20260518_A3 (Real number 298)
 
 0s to review:
--
+-GLO_LFC_Campaign_A_NextStay10k_20kRegRem_20262649_20260521 (Today it is not showing audience, is this expected?)
 
 Drops:
--GLO_POS_PostStay_Mbr_20260401_LIVE (Drop from 111,498 to 58,430)
-
+-
 
 Spike:
 -
 
 Additional Notes:
-Achieved_Member_Choice_Issued_Deployment_2024 Now has sends!!! 2540 sends
-review GLO_LFC_RedemptionQualifiedReward_1386000_A1_20241112 behavior, today it got a little drop.
+
 
