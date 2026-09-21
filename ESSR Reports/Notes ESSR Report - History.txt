@@ -2227,3 +2227,99 @@ DC_FINAL_IHG_RS_LFC_NEWLY_ELITE_PLATINUM (Spike from 1611 to 4,889)
 
 
 Additional Notes:
+
+09/21/2026______________________________________________________________________________
+
+Data Team Known Issues (Expected 0 sends)
+-New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Is an expected behavior)
+-NEW_GLO_LFC_2ndStayOffer10k20kComp_Global_1423351_T1_20250421 (Is an expected behavior)
+-GLO_LFC_2ndStayOffer10k20kComp_RegionalJapan_1423351_T1_20250421 (Is an expected behavior)
+-MCP Abandoned Cart Omni-Channel  GLO_REV_AbandonBrowse_A1__SubjectC (Is an expected behavior)
+-NEW_GLO_LFC_2ndStayOffer10k20kComp_OTA_1423351_T1_20250421 (Is an expected behavior)
+-GLO_LFC_1stStayOfferComp_1486100_T1_20250411 (Recently added, today appears as 0; this is expected)
+-GLO_LFC_PCSRP26K_20262701_20260518 (Stopped undefined, will be replaced for other journeys)
+-GLO_LFC_PCSRP26L_20262701_20260518 (Stopped undefined, will be replaced for other journeys)
+-GLO_LFC_EducateDE_WelcomeEnrollee_20252167_A1_20250626 (Stopped, will be replaced for other journeys)
+-PreStay_prod-GLO_PRE_PreStay_SX_20260401_LIVE (Expected due to an update in the messages send; new name for these messages is: GLO_PRE_PreStay_SX_20260812_LIVE )
+-GLO_LFC_NextStay_Campaign_B_10k_20k_Reg_20262649_20260514_Push (This is an expected behavior)
+-DigitalCheckIn_PROD (Confirmed by Kamaria on teams chat this is expected, jouneys will be paused for about a month)
+-GLO_LFC_Campaign_A_NextStay_10k_20kReg_20262649_20260514 (Second consecutive day appears as 0, this journey  is waiting to make roll-up data; is this expected)
+ 
+Delays - Check using query (0 in the table):
+-GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 15,821)
+-GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 139)
+-GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 4,332)
+-GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 4,493)
+
+9/20
+-GLO_LFC_PCSRP26K_20262701_20260518_A2 (Real number 44)
+-GLO_LFC_PCSRP26K_20262701_20260518_A3 (Real number 35)
+-GLO_LFC_PCSRP26L_20262701_20260518_A2 (Real number 594)
+-GLO_LFC_PCSRP26L_20262701_20260518_A3 (Real number 539)
+
+9/19
+-GLO_LFC_PCSRP26K_20262701_20260518_A2 (Real number 0)
+-GLO_LFC_PCSRP26K_20262701_20260518_A3 (Real number 0)
+-GLO_LFC_PCSRP26L_20262701_20260518_A2 (Real number 0)
+-GLO_LFC_PCSRP26L_20262701_20260518_A3 (Real number 0)
+
+0s to review:
+GLO_LFC_Lapsed_In_Offer_Booking_Reminder - GLO_LFC_Lifecycle-Returning_Inactive_Lapsed_Offer_Booking_Reminder-StayAgain
+GLO_LFC_Lapsed_In_Offer_Booking_Reminder - GLO_LFC_Lifecycle-Returning_Inactive_Lapsed_Offer_Booking_Reminder-StayTwice
+
+GLO_LFC_Lifecycle-Anniversary_Offer_Booking_Reminder_10YR
+GLO_LFC_Lifecycle-Anniversary_Offer_Booking_Reminder_10YR_15YR_PUSH
+GLO_LFC_Lifecycle-Anniversary_Offer_Booking_Reminder_15YR
+GLO_LFC_Lifecycle-Anniversary_Offer_Booking_Reminder_1YR
+GLO_LFC_Lifecycle-Anniversary_Offer_Booking_Reminder_1YR_4YR_PUSH
+GLO_LFC_Lifecycle-Anniversary_Offer_Booking_Reminder_20YR
+GLO_LFC_Lifecycle-Anniversary_Offer_Booking_Reminder_20YR_25YR_PUSH
+GLO_LFC_Lifecycle-Anniversary_Offer_Booking_Reminder_25YR
+GLO_LFC_Lifecycle-Anniversary_Offer_Booking_Reminder_2YR
+GLO_LFC_Lifecycle-Anniversary_Offer_Booking_Reminder_3YR
+GLO_LFC_Lifecycle-Anniversary_Offer_Booking_Reminder_4YR
+GLO_LFC_Lifecycle-Anniversary_Offer_Booking_Reminder_5YR
+GLO_LFC_Lifecycle-Anniversary_Offer_Booking_Reminder_5YR_PUSH
+
+GLO_LFC_Lifecycle-Anniversary_Offer_Registration_10YR
+GLO_LFC_Lifecycle-Anniversary_Offer_Registration_15YR
+GLO_LFC_Lifecycle-Anniversary_Offer_Registration_1YR
+GLO_LFC_Lifecycle-Anniversary_Offer_Registration_20YR
+GLO_LFC_Lifecycle-Anniversary_Offer_Registration_25YR
+GLO_LFC_Lifecycle-Anniversary_Offer_Registration_2YR
+GLO_LFC_Lifecycle-Anniversary_Offer_Registration_3YR
+GLO_LFC_Lifecycle-Anniversary_Offer_Registration_4YR
+GLO_LFC_Lifecycle-Anniversary_Offer_Registration_5YR
+
+GLO_LFC_Lifecycle-Unique_Properties_Celebration
+
+GLO_LFC_Lifecycle-Unique_Countries_Celebration
+
+GLO_LFC_Lifecycle-Thousand_Lifetime_Nights
+
+LFC_GLO_Birthday_Offer_Booking_Reminder
+
+Nearly_Elite_Diamond_Deployment_2026
+Nearly_Elite_Platinum_Deployment_2026
+
+GLO_LFC_Educate_Evergreen App Offer Completion_T1 - V2
+GLO_LFC_Lifecycle- Birthday Offer Completion
+GLO_LFC_Milestone-Rewards_Reminder_7_20252238_20251223
+NA	GLO_POS_PostStay_GE_Mbr_20260401_LIVE
+NA	GLO_POS_PostStay_Mbr_20260401_LIVE
+NA	GLO_POS_PostStay_SX_Mbr_20260401_LIVE
+
+
+Drops:
+- GLO_LFC_Educate_Evergreen App - A1 - Announcement - Launch - Drop from 6,891 to 4,286 (about 37% drop, is that expected?)
+- GLO_LFC_Nurture_Tier_Maintain - Drop from 506 to 16 this weekend, and then it spikes to 1,628 (we noticed this is part of the trend)
+- GLO_LifeCycle_Lapsed_In_Offer_Registration - Drop from 13,314 to 6,816 (about 48% drop, Based on historical trend, this drop is not a concern)
+
+Spike:
+-
+
+
+Additional Notes:
+
+We confirmed that the expected delays and 0's in today's session are correct, and this report reflects the real send numbers.
+Also, we confirmed that project cupid was 0 in 9/19.
