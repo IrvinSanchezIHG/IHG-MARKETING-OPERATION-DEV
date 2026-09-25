@@ -1,4 +1,4 @@
-09/23/2026______________________________________________________________________________
+09/24/2026______________________________________________________________________________
 
 Data Team Known Issues (Expected 0 sends)
 -New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Is an expected behavior)
@@ -16,26 +16,24 @@ Data Team Known Issues (Expected 0 sends)
 -GLO_LFC_Campaign_A_NextStay_10k_20kReg_20262649_20260514 (Second consecutive day appears as 0, this journey  is waiting to make roll-up data; is this expected)
  
 Delays - Check using query (0 in the table):
--GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 13,458)
--GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 104)
--GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 6,286)
--GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 6,095)
--GLO_LFC_PCSRP26K_20262701_20260518_A2 (Real number 22)
--GLO_LFC_PCSRP26K_20262701_20260518_A3 (Real number 15)
--GLO_LFC_PCSRP26L_20262701_20260518_A2 (Real number 235)
--GLO_LFC_PCSRP26L_20262701_20260518_A3 (Real number 259)
+-GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 14,168)
+-GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 121)
+-GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 8,176)
+-GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 7,634)
+-GLO_LFC_PCSRP26K_20262701_20260518_A2 (Real number 25)
+-GLO_LFC_PCSRP26K_20262701_20260518_A3 (Real number 16)
+-GLO_LFC_PCSRP26L_20262701_20260518_A2 (Real number 352)
+-GLO_LFC_PCSRP26L_20262701_20260518_A3 (Real number 276)
 
 
 0s to review:
 
 Drops:
-- GLO_LFC_Milestone_Rewards_Choice_Confirmation_20252238_20260304 (Drop from 9,111 to 4,846 | 46.8 % - Is expected?, Based on historical trend, this drop is not a concern.)
-- GLO_LFC_Milestone-Rewards_Reminder_7_20252238_20251223 (Drop from 29,027 to 3,745 | 87.1 % - This is expected behavior; yesterday was the atypical day.)
+- GLO_LFC_Milestone-Rewards_Reminder_14_20252238_20251223 Drop from 2,720 to 1,860 (is this expected? I don't see low records on history)
+- New_GLO_LFC_Milestone-Rewards_Redeemed_CSU drop from 266 to 194 (is this expected?)
 
 Spike:
-- GLO_LFC_Educate_Welcome_to_IHGOR_INN_Enrollee_v2 (Spike from 350 to 572)
+- 
 
 
 Additional Notes:
-
-GLO_LFC_Milestone-Rewards_Reminder_7_20252238_20251223 and GLO_LFC_MR100NightsReg_20262702_20260624 are back to normal today. Per yesterday's conversation with Kamaria and Raunak, we'll continue monitoring both journeys for the next few days before confirming this was a one-time anomaly — milestone rewards data is managed by P&T/Krishna's team, so we'll keep them tagged on any future callouts.
