@@ -7,17 +7,20 @@ Data Team Known Issues (Expected 0 sendsgit )
 
  
 Delays - Check using query (0 in the table):
--GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 11,455)
--GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 108)
--GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 8,472)
--GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 5,544)
--GLO_LFC_PCSRP26K_20262701_20260518_A2 (Real number 52)
--GLO_LFC_PCSRP26K_20262701_20260518_A3 (Real number 12)
--GLO_LFC_PCSRP26L_20262701_20260518_A2 (Real number 264)
--GLO_LFC_PCSRP26L_20262701_20260518_A3 (Real number 220)
+-GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 11,466)
+-GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 80)
+-GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 11,855)
+-GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 9,183)
+-GLO_LFC_PCSRP26K_20262701_20260518_A3 (Real number 16)
+-GLO_LFC_PCSRP26L_20262701_20260518_A3 (Real number 275)
 
 0s to review:
-- GLO_LFC_Milestone-Rewards_Reminder_14_20252238_20251223 (is this expected?)
+
+-GLO_LFC_Lifecycle-Cobrand_2024 (stopped)
+
+-GLO_LFC_PCSRP26K_20262701_20260518_A2 (is this expected?)
+-GLO_LFC_PCSRP26L_20262701_20260518_A2 (is this expected?)
+
 
 Drops:
 - New_GLO_LFC_Milestone-Rewards_Redeemed_CSU (Drop from 198 to 163, is this expected?)
@@ -25,5 +28,8 @@ Drops:
 Spike:
 - 
 
-
 Additional Notes:
+
+GLO_LFC_PCSRP26K_20262701_20260518_A2 and GLO_LFC_PCSRP26L_20262701_20260518_A2 had 0's per 2 days; is that expected?
+
+GLO_LFC_Milestone-Rewards_Reminder_14_20252238_20251223 returns to normal behavior.
