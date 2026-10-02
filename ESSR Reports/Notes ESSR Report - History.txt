@@ -2591,3 +2591,35 @@ Spike:
 
 Additional Notes:
 please monitor GLO_LFC_Lifecycle-Anniversary_Offer_Booking_Reminder_2YR and GLO_LFC_Lifecycle-Anniversary_Offer_Booking_Reminder_3YR records are going up.
+
+10/02/2026______________________________________________________________________________
+
+Data Team Known Issues (Expected 0 sendsgit )
+-New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Is an expected behavior)
+-MCP Abandoned Cart Omni-Channel  GLO_REV_AbandonBrowse_A1__SubjectC (Is an expected behavior)
+-DigitalCheckIn_PROD (Confirmed by Kamaria on teams chat this is expected, jouneys will be paused for about a month)
+
+ 
+Delays - Check using query (0 in the table):
+-GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 11,721)
+-GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 151)
+-GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 10,027)
+-GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 4,642)
+-GLO_LFC_PCSRP26K_20262701_20260518_A3 (Real number 19)
+-GLO_LFC_PCSRP26L_20262701_20260518_A3 (Real number 350)
+
+0s to review:
+-GLO_LFC_NextStay_Campaign_B_10k_20k_Reg_20262649_20260514_Push (This is an expected behavior)
+
+
+Drops:
+- 
+
+Spike:
+- GLO_LFC_Lifecycle-Thousand_Lifetime_Nights (Spike from 137 to 233 - (about 70% jump)) — Historically this journey has also had this behavior.
+
+Additional Notes:
+
+GLO_LFC_Lifecycle-Anniversary_Offer_Booking_Reminder_2YR and GLO_LFC_Lifecycle-Anniversary_Offer_Booking_Reminder_3YR returns to expected behavior.
+
+Today's review shows no significant drops or spikes — all journeys are within normal range.
