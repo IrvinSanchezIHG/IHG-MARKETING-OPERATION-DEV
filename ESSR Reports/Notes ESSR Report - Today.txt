@@ -1,28 +1,31 @@
-10/07/2026______________________________________________________________________________
+10/08/2026______________________________________________________________________________
 
-Data Team Known Issues (Expected 0 sendsgit )
--New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Is an expected behavior)
--MCP Abandoned Cart Omni-Channel  GLO_REV_AbandonBrowse_A1__SubjectC (Is an expected behavior)
--DigitalCheckIn_PROD (Confirmed by Kamaria on teams chat this is expected, jouneys will be paused for about a month)
+Note: The information below reflects activity reported for 10/07 and is based on data from the previous reporting day.
 
- 
+Data Team Known Issues (Expected 0 sends):
+New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Expected behavior)
+MCP Abandoned Cart Omni-Channel GLO_REV_AbandonBrowse_A1_SubjectC (Expected behavior)
+DigitalCheckIn_PROD (Confirmed by Kamaria. Journeys are expected to remain paused for approximately one month)
+
 Delays - Check using query (0 in the table):
--GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real number 11,374)
--GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 96)
--GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real number 10,571)
--GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real number 7,385)
--GLO_LFC_PCSRP26K_20262701_20260518_A3 (Real number 16)
--GLO_LFC_PCSRP26L_20262701_20260518_A3 (Real number 217)
+
+GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real Number 12,262)
+GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 95)
+GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real Number 11,755)
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real Number 8,133)
+GLO_LFC_PCSRP26K_20262701_20260518_A3 (Real Number 15)
+GLO_LFC_PCSRP26L_20262701_20260518_A3 (Real Number 323)
 
 0s to review:
--GLO_LFC_MR100NightsBook_20262702_20260706 (Sends dropped from 110 to 0, is this expected? No sends were recorded yesterday or so far today, and there are currently no sends queued. Similar behavior has been observed previously.)
 
 
 Drops:
--
+DC_FINAL_IHG_RS_LFC_NEWLY_ELITE_PLATINUM - Drop from 1,030 to 685 (approximately 34% decrease. Is this expected?)
 
-Spike:
--New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Spike from 1 to 96,185, is this expected, 9,618,400% Increased)
+Spikes:
+GLO_LFC_MR100NightsBook_20262702_20260706 (Increase from 0 to 110 sends, returning to expected behavior)
 
 Additional Notes:
+
+GLO_LFC_MR100NightsBook_20262702_20260706 has returned to expected send volume and will continue to be monitored.
 
