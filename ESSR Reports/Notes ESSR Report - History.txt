@@ -2708,3 +2708,34 @@ Additional Notes:
 
 GLO_LFC_MR100NightsBook_20262702_20260706 has returned to expected send volume and will continue to be monitored.
 
+
+10/09/2026______________________________________________________________________________
+
+Note: The information below reflects activity reported for 10/08 and is based on data from the previous reporting day.
+
+Data Team Known Issues (Expected 0 sends):
+New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Expected behavior)
+MCP Abandoned Cart Omni-Channel GLO_REV_AbandonBrowse_A1_SubjectC (Expected behavior)
+DigitalCheckIn_PROD (Confirmed by Kamaria. Journeys are expected to remain paused for approximately one month)
+
+Delays - Check using query (0 in the table):
+
+GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real Number 11,609)
+GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 125)
+GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real Number 8,996)
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real Number 4,058)
+GLO_LFC_PCSRP26K_20262701_20260518_A3 (Real Number 21)
+GLO_LFC_PCSRP26L_20262701_20260518_A3 (Real Number 418)
+
+0s to review:
+-GLO_LFC_Lapsed_In_Offer_Booking_Reminder_Push (appears in 0 october 8th, is this expected? October 9th DE seems to have 14 records.)
+
+Drops:
+
+Spikes:
+
+Additional Notes:
+
+Monitor GLO_LFC_NextStay_Campaign_B_10k_20k_Reg_20262649_20260514_Push , today appears as 0 but seems like a normal behavor, review it goes back to normality (Campaign is over) 
+
+
