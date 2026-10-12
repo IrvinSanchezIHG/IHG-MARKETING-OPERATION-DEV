@@ -1,30 +1,44 @@
-10/09/2026______________________________________________________________________________
+10/12/2026______________________________________________________________________________
 
-Note: The information below reflects activity reported for 10/08 and is based on data from the previous reporting day.
+Note: The information below reflects activity reported for 10/11 and is based on data from the previous reporting day.
 
 Data Team Known Issues (Expected 0 sends):
+
 New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Expected behavior)
 MCP Abandoned Cart Omni-Channel GLO_REV_AbandonBrowse_A1_SubjectC (Expected behavior)
 DigitalCheckIn_PROD (Confirmed by Kamaria. Journeys are expected to remain paused for approximately one month)
 
 Delays - Check using query (0 in the table):
 
-GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real Number 11,609)
-GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 125)
-GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real Number 8,996)
-GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real Number 4,058)
-GLO_LFC_PCSRP26K_20262701_20260518_A3 (Real Number 21)
-GLO_LFC_PCSRP26L_20262701_20260518_A3 (Real Number 418)
+GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real Number 10,918)
+GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 108)
+GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real Number 8,140)
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real Number 4,701)
+GLO_LFC_PCSRP26K_20262701_20260518_A3 (Real Number 24)
+GLO_LFC_PCSRP26L_20262701_20260518_A3 (Real Number 206)
 
-0s to review:
--GLO_LFC_Lapsed_In_Offer_Booking_Reminder_Push (appears in 0 october 8th, is this expected? October 9th DE seems to have 14 records.)
+0s to Review:
+
+GLO_LFC_Milestone-Rewards_Reminder_30_20252238_20251223
+Journey remains Running.
+The journey recorded 1,596 sends on 10/09, followed by 0 sends on 10/10, 10/11, and today.
+The source DE (Member_Choice_Reminder_DE_Final_30) currently contains 0 records.
+The DE appears to have been last updated on 10/10.
+Please confirm if this behavior is expected.
 
 Drops:
+None identified.
 
 Spikes:
+None identified.
 
 Additional Notes:
 
-Monitor GLO_LFC_NextStay_Campaign_B_10k_20k_Reg_20262649_20260514_Push , today appears as 0 but seems like a normal behavor, review it goes back to normality (Campaign is over) 
+GLO_LFC_Milestone-Rewards_Reminder_30_20252238_20251223 has recorded 0 sends since 10/10. The journey remains Running; however, the source DE (Member_Choice_Reminder_DE_Final_30) currently contains 0 records and appears to have last been updated on 10/10. Initial validation suggests the behavior is related to no eligible audience being available rather than a journey configuration or sending issue.
+Continue monitoring GLO_LFC_NextStay_Campaign_B_10k_20k_Reg_20262649_20260514_Push. The journey continues to appear with 0 sends and current behavior may be associated with campaign completion. Monitoring for confirmation.
+
+Monitoring GLO_LFC_1stStayOfferReg_1486100_A1_20250331. Recently activated campaign showing stable send volume during its first days of execution (14,260 on 10/10 and 13,444 on 10/11). No issues have been identified at this time. Continued monitoring will be performed over the coming days to establish expected volume patterns and detect any unexpected fluctuations.
+
+No more significant drops or spikes were identified between 10/09 and 10/11 beyond normal audience fluctuations.
 
 
