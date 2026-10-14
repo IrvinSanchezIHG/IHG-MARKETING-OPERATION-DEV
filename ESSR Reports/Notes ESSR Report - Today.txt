@@ -1,36 +1,38 @@
-10/13/2026______________________________________________________________________________
-
-Note: The information below reflects activity reported for 10/12 and is based on data from the previous reporting day.
-
+10/14/2026______________________________________________________________________________
+ 
+Note: The information below reflects activity reported for 10/13 and is based on data from the previous reporting day.
+ 
 Data Team Known Issues (Expected 0 sends):
-
+ 
 New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Expected behavior)
 MCP Abandoned Cart Omni-Channel GLO_REV_AbandonBrowse_A1_SubjectC (Expected behavior)
 DigitalCheckIn_PROD (Confirmed by Kamaria. Journeys are expected to remain paused for approximately one month)
-
+ 
 Delays - Check using query (0 in the table):
-
-GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real Number 10,264)
-GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 114)
-GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real Number 9,753)
-GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real Number 6,122)
-
-
+ 
+GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real Number 10,715)
+GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 74)
+GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real Number 11,282)
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real Number 7,204)
+ 
+ 
 0s to Review:
-
-GLO_LFC_Educate_Evergreen App Offer Completion_T1 - V2 (DE FINAL_IHG_RS_GLO_LFC_Evergreen_Com has 74 records, journey is running, intelligence report show 19 sends on 10/11 but is not showing sends on 10/12)
-
+ 
+GLO_LFC_Milestone-Rewards_Reminder_30_20252238_20251223 (has recorded 0 sends since 10/10. The journey remains Running.er, the source DE (Member_Choice_Reminder_DE_Final_30) currently contains 21,447 records.)
+ 
+ 
 Drops:
-None concerning drops identified.
-
+Point_Expiration_30days_Prod (GLO_LFC_Points-Expiration_30d-before) recorded 11,426 sends on 10/13 compared to 87,023 in the previous comparison period (-86.9%). Is that expected?
+ 
 Spikes:
-None concerning spikes identified.
+GLO_LFC_Educate_Evergreen App Offer Completion_T1 - V2 recorded 74 sends on 10/13. The journey is now reflecting send activity after previously appearing as a potential zero-send anomaly. Current results indicate normal behavior and no further action is required at this time.
+GLO_LFC_Educate_Welcome_to_IHGOR_NonINN_Enrollee_v2 recorded 843 sends compared to 578 on the prior comparison period (+45.8%).
+GLO_LFC_Lifecycle-Anniversary_Offer_Registration_4YR recorded 15,559 sends on 10/13 compared to 7,458 in the previous comparison period (+108.6%). Is that expected?
 
 Additional Notes:
 
-GLO_LFC_Milestone-Rewards_Reminder_30_20252238_20251223 has recorded 0 sends since 10/10. The journey remains Running; however, the source DE (Member_Choice_Reminder_DE_Final_30) currently contains 0 records and appears to have last been updated on 10/10. Initial validation suggests the behavior is related to no eligible audience being available rather than a journey configuration or sending issue.
-
-
-Monitoring GLO_LFC_1stStayOfferReg_1486100_A1_20250331. Recently activated campaign showing stable send volume during its first days of execution (14,260 on 10/10 and 13,444 on 10/11, 12,070 on 10/12). No issues have been identified at this time. Continued monitoring will be performed over the coming days to establish expected volume patterns and detect any unexpected fluctuations.
-
-
+GLO_LFC_Milestone-Rewards_Reminder_30_20252238_20251223 has recorded 0 sends since 10/10. The journey remains Running; however, the source DE (Member_Choice_Reminder_DE_Final_30) currently contains approximately 21K records. Is that expected?
+ 
+GLO_LFC_Lifecycle-Anniversary_Offer_Registration_4YR recorded 15,559 sends on 10/13 compared to 7,458 in the previous comparison period (+108.6%). Is that expected?
+ 
+Point_Expiration_30days_Prod (GLO_LFC_Points-Expiration_30d-before) recorded 11,426 sends on 10/13 compared to 87,023 in the previous comparison period (-86.9%). Is that expected?
