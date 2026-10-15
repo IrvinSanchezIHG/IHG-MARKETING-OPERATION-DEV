@@ -1,6 +1,6 @@
-10/14/2026______________________________________________________________________________
+10/15/2026______________________________________________________________________________
  
-Note: The information below reflects activity reported for 10/13 and is based on data from the previous reporting day.
+Note: The information below reflects activity reported for 10/14 and is based on data from the previous reporting day.
  
 Data Team Known Issues (Expected 0 sends):
  
@@ -10,29 +10,25 @@ DigitalCheckIn_PROD (Confirmed by Kamaria. Journeys are expected to remain pause
  
 Delays - Check using query (0 in the table):
  
-GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real Number 10,715)
-GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 74)
-GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real Number 11,282)
-GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real Number 7,204)
+GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real Number 11,666)
+GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 124)
+GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real Number 12,723)
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real Number 8,243)
  
  
 0s to Review:
- 
-GLO_LFC_Milestone-Rewards_Reminder_30_20252238_20251223 (has recorded 0 sends since 10/10. The journey remains Running.er, the source DE (Member_Choice_Reminder_DE_Final_30) currently contains 21,447 records.)
- 
+- 
  
 Drops:
-Point_Expiration_30days_Prod (GLO_LFC_Points-Expiration_30d-before) recorded 11,426 sends on 10/13 compared to 87,023 in the previous comparison period (-86.9%). Is that expected?
- 
+GLO_LFC_Lifecycle-Anniversary_Offer_Registration_4YR - Drop from 15,559 to 6,888 (55.7% decrease. Returned to expected range)
+
+
 Spikes:
-GLO_LFC_Educate_Evergreen App Offer Completion_T1 - V2 recorded 74 sends on 10/13. The journey is now reflecting send activity after previously appearing as a potential zero-send anomaly. Current results indicate normal behavior and no further action is required at this time.
-GLO_LFC_Educate_Welcome_to_IHGOR_NonINN_Enrollee_v2 recorded 843 sends compared to 578 on the prior comparison period (+45.8%).
-GLO_LFC_Lifecycle-Anniversary_Offer_Registration_4YR recorded 15,559 sends on 10/13 compared to 7,458 in the previous comparison period (+108.6%). Is that expected?
+GLO_LFC_Milestone-Rewards_Reminder_30_20252238_20251223 - Spike from 0 to 20,387 (this journey has sends after 4 days with 0 sends)
 
 Additional Notes:
 
-GLO_LFC_Milestone-Rewards_Reminder_30_20252238_20251223 has recorded 0 sends since 10/10. The journey remains Running; however, the source DE (Member_Choice_Reminder_DE_Final_30) currently contains approximately 21K records. Is that expected?
- 
-GLO_LFC_Lifecycle-Anniversary_Offer_Registration_4YR recorded 15,559 sends on 10/13 compared to 7,458 in the previous comparison period (+108.6%). Is that expected?
- 
-Point_Expiration_30days_Prod (GLO_LFC_Points-Expiration_30d-before) recorded 11,426 sends on 10/13 compared to 87,023 in the previous comparison period (-86.9%). Is that expected?
+GLO_LFC_Lifecycle-Anniversary_Offer_Registration_4YR returned to expected behavior.
+GLO_LFC_Milestone-Rewards_Reminder_30_20252238_20251223 returned to have sends.
+
+Journeys look good, no anomalies.

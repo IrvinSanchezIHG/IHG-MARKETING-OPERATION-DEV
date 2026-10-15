@@ -2856,3 +2856,38 @@ GLO_LFC_Milestone-Rewards_Reminder_30_20252238_20251223 has recorded 0 sends sin
 GLO_LFC_Lifecycle-Anniversary_Offer_Registration_4YR recorded 15,559 sends on 10/13 compared to 7,458 in the previous comparison period (+108.6%). Is that expected?
  
 Point_Expiration_30days_Prod (GLO_LFC_Points-Expiration_30d-before) recorded 11,426 sends on 10/13 compared to 87,023 in the previous comparison period (-86.9%). Is that expected?
+
+10/15/2026______________________________________________________________________________
+ 
+Note: The information below reflects activity reported for 10/14 and is based on data from the previous reporting day.
+ 
+Data Team Known Issues (Expected 0 sends):
+ 
+New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Expected behavior)
+MCP Abandoned Cart Omni-Channel GLO_REV_AbandonBrowse_A1_SubjectC (Expected behavior)
+DigitalCheckIn_PROD (Confirmed by Kamaria. Journeys are expected to remain paused for approximately one month)
+ 
+Delays - Check using query (0 in the table):
+ 
+GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real Number 11,666)
+GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 124)
+GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real Number 12,723)
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real Number 8,243)
+ 
+ 
+0s to Review:
+- 
+ 
+Drops:
+GLO_LFC_Lifecycle-Anniversary_Offer_Registration_4YR - Drop from 15,559 to 6,888 (55.7% decrease. Returned to expected range)
+
+
+Spikes:
+GLO_LFC_Milestone-Rewards_Reminder_30_20252238_20251223 - Spike from 0 to 20,387 (this journey has sends after 4 days with 0 sends)
+
+Additional Notes:
+
+GLO_LFC_Lifecycle-Anniversary_Offer_Registration_4YR returned to expected behavior.
+GLO_LFC_Milestone-Rewards_Reminder_30_20252238_20251223 returned to have sends.
+
+Journeys look good, no anomalies.
