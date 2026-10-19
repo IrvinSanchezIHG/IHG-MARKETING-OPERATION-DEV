@@ -1,6 +1,6 @@
-10/15/2026______________________________________________________________________________
+10/19/2026______________________________________________________________________________
  
-Note: The information below reflects activity reported for 10/14 and is based on data from the previous reporting day.
+Note: The information below reflects activity reported for 10/15 and is based on data from the previous reporting day.
  
 Data Team Known Issues (Expected 0 sends):
  
@@ -10,25 +10,24 @@ DigitalCheckIn_PROD (Confirmed by Kamaria. Journeys are expected to remain pause
  
 Delays - Check using query (0 in the table):
  
-GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real Number 11,666)
-GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 124)
-GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real Number 12,723)
-GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real Number 8,243)
+GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real Number 10,594)
+GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 146)
+GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real Number 8,524)
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 4,565)
  
  
 0s to Review:
-- 
+- GLO_LFC_Campaign_A_NextStay10k_20kRegRem_20262649_20260521 (DE doesn't have records, is this expected?)
  
 Drops:
-GLO_LFC_Lifecycle-Anniversary_Offer_Registration_4YR - Drop from 15,559 to 6,888 (55.7% decrease. Returned to expected range)
 
 
 Spikes:
-GLO_LFC_Milestone-Rewards_Reminder_30_20252238_20251223 - Spike from 0 to 20,387 (this journey has sends after 4 days with 0 sends)
+-GLO_LFC_Campaign_C_NextStay10k_20k_RegRem_20262649_20260521 (spike from 20,389 to 26,484)
 
 Additional Notes:
+GLO_LFC_Educate_Evergreen App Offer Completion_T1 - V2
+ Monitor the journey. It currently has 24 sends. Please review periodically to ensure volume remains stable and does not drop to 0 or fall below expected levels.
 
-GLO_LFC_Lifecycle-Anniversary_Offer_Registration_4YR returned to expected behavior.
-GLO_LFC_Milestone-Rewards_Reminder_30_20252238_20251223 returned to have sends.
-
-Journeys look good, no anomalies.
+GLO_LFC_Educate_Ways to Build Points Balance_v2
+ Monitor the journey. Sends have decreased from 980 to 845. The drop does not appear concerning at this time, but please continue monitoring to ensure volumes do not decline beyond normal fluctuations.

@@ -2891,3 +2891,69 @@ GLO_LFC_Lifecycle-Anniversary_Offer_Registration_4YR returned to expected behavi
 GLO_LFC_Milestone-Rewards_Reminder_30_20252238_20251223 returned to have sends.
 
 Journeys look good, no anomalies.
+
+10/16/2026______________________________________________________________________________
+ 
+Note: The information below reflects activity reported for 10/15 and is based on data from the previous reporting day.
+ 
+Data Team Known Issues (Expected 0 sends):
+ 
+New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Expected behavior)
+MCP Abandoned Cart Omni-Channel GLO_REV_AbandonBrowse_A1_SubjectC (Expected behavior)
+DigitalCheckIn_PROD (Confirmed by Kamaria. Journeys are expected to remain paused for approximately one month)
+ 
+Delays - Check using query (0 in the table):
+ 
+GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real Number 11,351)
+GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 138)
+GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real Number 9,803)
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real Number 4,139)
+ 
+ 
+0s to Review:
+- 
+ 
+Drops:
+
+
+Spikes:
+
+Additional Notes:
+
+GLO_LFC_Lifecycle-Anniversary_Offer_Booking_Reminder_10YR_15YR_PUSH - drop from 23 to 11, just review in the next day it doesn't become 0 or drops more.
+
+
+
+10/19/2026______________________________________________________________________________
+ 
+Note: The information below reflects activity reported for 10/15 and is based on data from the previous reporting day.
+ 
+Data Team Known Issues (Expected 0 sends):
+ 
+New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Expected behavior)
+MCP Abandoned Cart Omni-Channel GLO_REV_AbandonBrowse_A1_SubjectC (Expected behavior)
+DigitalCheckIn_PROD (Confirmed by Kamaria. Journeys are expected to remain paused for approximately one month)
+ 
+Delays - Check using query (0 in the table):
+ 
+GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real Number 10,594)
+GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 146)
+GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real Number 8,524)
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 4,565)
+ 
+ 
+0s to Review:
+- GLO_LFC_Campaign_A_NextStay10k_20kRegRem_20262649_20260521 (DE doesn't have records, is this expected?)
+ 
+Drops:
+
+
+Spikes:
+-GLO_LFC_Campaign_C_NextStay10k_20k_RegRem_20262649_20260521 (spike from 20,389 to 26,484)
+
+Additional Notes:
+GLO_LFC_Educate_Evergreen App Offer Completion_T1 - V2
+ Monitor the journey. It currently has 24 sends. Please review periodically to ensure volume remains stable and does not drop to 0 or fall below expected levels.
+
+GLO_LFC_Educate_Ways to Build Points Balance_v2
+ Monitor the journey. Sends have decreased from 980 to 845. The drop does not appear concerning at this time, but please continue monitoring to ensure volumes do not decline beyond normal fluctuations.
