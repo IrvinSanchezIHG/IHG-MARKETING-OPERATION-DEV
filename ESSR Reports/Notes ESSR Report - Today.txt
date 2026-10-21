@@ -1,4 +1,4 @@
-10/19/2026______________________________________________________________________________
+10/20/2026______________________________________________________________________________
  
 Note: The information below reflects activity reported for 10/15 and is based on data from the previous reporting day.
  
@@ -10,24 +10,24 @@ DigitalCheckIn_PROD (Confirmed by Kamaria. Journeys are expected to remain pause
  
 Delays - Check using query (0 in the table):
  
-GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real Number 10,594)
-GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 146)
-GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real Number 8,524)
-GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 4,565)
+GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real Number 9,744)
+GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 99)
+GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real Number 9,867)
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 6,078)
  
  
 0s to Review:
-- GLO_LFC_Campaign_A_NextStay10k_20kRegRem_20262649_20260521 (DE doesn't have records, is this expected?)
- 
+
+
 Drops:
+- GLO_LFC_Campaign_A_NextStay10k_20k_Book_20262649_20260518 - Drop from 115 to 62 (46% decrease, is this expected?)
+- GLO_LFC_Nurture_Tier_Maintain - Drop from 763 to 17, (we noticed this is part of the trend)
 
 
 Spikes:
--GLO_LFC_Campaign_C_NextStay10k_20k_RegRem_20262649_20260521 (spike from 20,389 to 26,484)
+- GLO_LFC_MR100NightsRegRem_20262702_20260702 (153.48% more sends, spike from 460 to 1,166)
 
 Additional Notes:
-GLO_LFC_Educate_Evergreen App Offer Completion_T1 - V2
- Monitor the journey. It currently has 24 sends. Please review periodically to ensure volume remains stable and does not drop to 0 or fall below expected levels.
+We will add UK Cobrand journeys sends on 10/26 to the report.
 
-GLO_LFC_Educate_Ways to Build Points Balance_v2
- Monitor the journey. Sends have decreased from 980 to 845. The drop does not appear concerning at this time, but please continue monitoring to ensure volumes do not decline beyond normal fluctuations.
+

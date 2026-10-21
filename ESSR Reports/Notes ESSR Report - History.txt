@@ -2957,3 +2957,37 @@ GLO_LFC_Educate_Evergreen App Offer Completion_T1 - V2
 
 GLO_LFC_Educate_Ways to Build Points Balance_v2
  Monitor the journey. Sends have decreased from 980 to 845. The drop does not appear concerning at this time, but please continue monitoring to ensure volumes do not decline beyond normal fluctuations.
+
+ 10/20/2026______________________________________________________________________________
+ 
+Note: The information below reflects activity reported for 10/15 and is based on data from the previous reporting day.
+ 
+Data Team Known Issues (Expected 0 sends):
+ 
+New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Expected behavior)
+MCP Abandoned Cart Omni-Channel GLO_REV_AbandonBrowse_A1_SubjectC (Expected behavior)
+DigitalCheckIn_PROD (Confirmed by Kamaria. Journeys are expected to remain paused for approximately one month)
+ 
+Delays - Check using query (0 in the table):
+ 
+GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real Number 9,744)
+GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 99)
+GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real Number 9,867)
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 6,078)
+ 
+ 
+0s to Review:
+
+
+Drops:
+- GLO_LFC_Campaign_A_NextStay10k_20k_Book_20262649_20260518 - Drop from 115 to 62 (46% decrease, is this expected?)
+- GLO_LFC_Nurture_Tier_Maintain - Drop from 763 to 17, (we noticed this is part of the trend)
+
+
+Spikes:
+- GLO_LFC_MR100NightsRegRem_20262702_20260702 (153.48% more sends, spike from 460 to 1,166)
+
+Additional Notes:
+We will add UK Cobrand journeys sends on 10/26 to the report.
+
+
