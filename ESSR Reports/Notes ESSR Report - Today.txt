@@ -1,33 +1,40 @@
-10/20/2026______________________________________________________________________________
+10/21/2026______________________________________________________________________________
  
-Note: The information below reflects activity reported for 10/15 and is based on data from the previous reporting day.
+Note: The information below reflects activity reported for 10/20 and is based on data from the previous reporting day.
  
 Data Team Known Issues (Expected 0 sends):
- 
+
 New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Expected behavior)
 MCP Abandoned Cart Omni-Channel GLO_REV_AbandonBrowse_A1_SubjectC (Expected behavior)
 DigitalCheckIn_PROD (Confirmed by Kamaria. Journeys are expected to remain paused for approximately one month)
- 
+
 Delays - Check using query (0 in the table):
- 
-GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real Number 9,744)
-GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 99)
-GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real Number 9,867)
-GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 6,078)
- 
- 
+
+- GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real Number 3,579) 
+- GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 110) 
+- GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real Number 12,213) 
+- GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real Number 8,714) 
+
 0s to Review:
-
-
+- GLO_LFC_Campaign_A_NextStay_10K_20K_Comp_20262649_20260527 (has recorded 0 sends since 10/20. The journey remains Running, the source DE (FINAL_IHG_RS_GLO_LFC_Next_Stay_Offer_Camp1_Email_Com) currently contains 237 records)
+- GLO_LFC_Campaign_B_NextStay_10k_20kCompB_20262649_20260626 (has recorded 0 sends since 10/20. The journey remains Running, the source DE (FINAL_IHG_RS_GLO_LFC_Next_Stay_Offer_Camp2_Email_Com) currently contains 122 records)
+- GLO_LFC_Educate_Evergreen App Offer Completion_T1 - V2 (has recorded 0 sends since 10/20. The journey remains Running, the source DE (FINAL_IHG_RS_GLO_LFC_Evergreen_Com) currently contains 81 records)
+- GLO_LFC_Lifecycle- Birthday Offer Completion (has recorded 0 sends since 10/20. The journey remains Running, the source DE (Final_IHG_RS_GLO_LFC_BIRTHDAY_COMPLETION) currently contains 21 records)
+- LFC_GLO_Birthday_Offer_Booking_Reminder (has recorded 0 sends since 10/20. The journey remains Running, the source DE (Final_IHG_RS_GLO_LFC_Birthday_Bkg_Reminder_CDP_20220527) currently contains 2,104 records)
+- NA	GLO_POS_PostStay_GE_Mbr_20260401_LIVE
+- NA	GLO_POS_PostStay_Mbr_20260401_LIVE
+- NA	GLO_POS_PostStay_SX_Mbr_20260401_LIVE
+ 
 Drops:
-- GLO_LFC_Campaign_A_NextStay10k_20k_Book_20262649_20260518 - Drop from 115 to 62 (46% decrease, is this expected?)
-- GLO_LFC_Nurture_Tier_Maintain - Drop from 763 to 17, (we noticed this is part of the trend)
-
-
+- GLO_LFC_Campaign_A_NextStay10k_20k_Book_20262649_20260518 - Drop from 62 to 29 (53% decrease, is this expected?)
+- GLO_LFC_Milestone_Rewards_Choice_Confirmation_20252238_20260304 (Drop from 8,041 to 4,984 | 38% - Is expected?, based on historical trend, this drop is not a concern)
+- GLO_LFC_MR100NightsReg_20262702_20260624 - Drop from 450 to 77 (83% decreased - Is expected?)
+- GLO_LFC_RedemptionQualifiedReward_1386000_A1_20241112 - Drop from 3,918 to 911 (77% decreased - Is expected?)
+- GLO_LFC_MR100NightsRegRem_20262702_20260702 - Drop from 1,166 to 510 (56% decreased - Is expected?, based on historical trend, this drop is not a concern)
+ 
 Spikes:
-- GLO_LFC_MR100NightsRegRem_20262702_20260702 (153.48% more sends, spike from 460 to 1,166)
-
-Additional Notes:
-We will add UK Cobrand journeys sends on 10/26 to the report.
-
-
+- GLO_LFC_Nurture_Tier_Maintain - Spikes from 17 to 1,465 (we noticed this is part of the trend)
+ 
+Additional Notes: 
+- We will add UK Cobrand journeys sends on 10/26 to the report.
+- We notice 3 Messages without a journey name with 0 sends, we will keep them in monitoring.
