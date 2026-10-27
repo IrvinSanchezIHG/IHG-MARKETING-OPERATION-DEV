@@ -1,6 +1,6 @@
-10/22/2026______________________________________________________________________________
+10/26/2026______________________________________________________________________________
  
-Note: The information below reflects activity reported for 10/21 and is based on data from the previous reporting day.
+Note: The information below reflects activity reported for 10/25 and is based on data from the previous reporting day.
  
 Data Team Known Issues (Expected 0 sends):
 
@@ -10,25 +10,22 @@ DigitalCheckIn_PROD (Confirmed by Kamaria. Journeys are expected to remain pause
 
 Delays - Check using query (0 in the table):
 
-- GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real Number 11,075) 
-- GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 120) 
-- GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real Number 13,044) 
-- GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real Number 8,043) 
+- GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real Number 10,596) 
+- GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 130) 
+- GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real Number 8,104) 
+- GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real Number 4,561) 
 
 0s to Review:
+- GLO_LFC_Lifecycle- Birthday Offer Completion (has recorded 0 sends 10/25 and 10/20. The journey remains Running, the source DE (Final_IHG_RS_GLO_LFC_BIRTHDAY_COMPLETION) currently contains 18 records)
 
  
 Drops:
-- GLO_LFC_Milestone_Rewards_Choice_Confirmation_20252238_20260304 (Drop from 6,379 to 4,452 | 30% - Is this expected?, based on historical trend, this drop is not a concern)
-- GLO_LFC_Nurture_Tier_Maintain - Drop from 1,475 to 760 (48% - Is this expected?, based on historical trend, this drop is not a concern)
-- Nearly_Elite_Silver_Deployment_2026 - Drop from 7,766 to 5,434 (30% - Is this expected?)
- 
+
+
 Spikes:
-- NA	GLO_POS_PostStay_GE_Mbr_20260401_LIVE - Spikes from 0 to 237 (based on historical, it seems to be expected behavior)
-- NA	GLO_POS_PostStay_Mbr_20260401_LIVE - Spikes from 0 to 121,910 (based on historical, it seems to be expected behavior)
-- NA	GLO_POS_PostStay_SX_Mbr_20260401_LIVE - Spikes from 0 to 55 (based on historical, it seems to be expected behavior)
-- GLO_LFC_RedemptionQualifiedReward_1386000_A1_20241112 - Spikes from 911 to 6,155 (81% jump, is this expected?)
+
  
 Additional Notes: 
-- We will add UK Cobrand journeys sends on 10/26 to the report.
-- We notice that the 3 Messages without a journey name with 0 sends now return to expected values.
+- Once active, we will add the UK Cobrand journey sends from 10/26 to the report
+- We noticed that “GLO_LFC_Lifecycle - Birthday Offer Completion” recorded 0 sends twice in recent days. We will continue monitoring it, as send volumes on the other days remain consistent with the usual trend
+- GLO_LFC_RedemptionQualifiedReward_1386000_A1_20241112 has returned to its normal send volumes
