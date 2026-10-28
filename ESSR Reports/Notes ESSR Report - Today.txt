@@ -1,6 +1,6 @@
-10/26/2026______________________________________________________________________________
+10/27/2026______________________________________________________________________________
  
-Note: The information below reflects activity reported for 10/25 and is based on data from the previous reporting day.
+Note: The information below reflects activity reported for 10/26 and is based on data from the previous reporting day.
  
 Data Team Known Issues (Expected 0 sends):
 
@@ -10,22 +10,21 @@ DigitalCheckIn_PROD (Confirmed by Kamaria. Journeys are expected to remain pause
 
 Delays - Check using query (0 in the table):
 
-- GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real Number 10,596) 
-- GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 130) 
-- GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real Number 8,104) 
-- GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real Number 4,561) 
+- GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real Number 9,584) 
+- GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 94) 
+- GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real Number 10,143) 
+- GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real Number 6,386) 
 
 0s to Review:
-- GLO_LFC_Lifecycle- Birthday Offer Completion (has recorded 0 sends 10/25 and 10/20. The journey remains Running, the source DE (Final_IHG_RS_GLO_LFC_BIRTHDAY_COMPLETION) currently contains 18 records)
-
+- NEW_GLO_LFC_2ndStayOffer10k20kReg_OTA_1423351_A1_20250408 - Drops from 6,187 to 0 (DE has no records - is this expected?)
  
 Drops:
 
 
 Spikes:
-
+- GLO_LFC_Nurture_Tier_Maintain - Spikes from 802 to 1,045 (we noticed this is part of the trend)
  
 Additional Notes: 
-- Once active, we will add the UK Cobrand journey sends from 10/26 to the report
-- We noticed that “GLO_LFC_Lifecycle - Birthday Offer Completion” recorded 0 sends twice in recent days. We will continue monitoring it, as send volumes on the other days remain consistent with the usual trend
-- GLO_LFC_RedemptionQualifiedReward_1386000_A1_20241112 has returned to its normal send volumes
+- Going forward, we will include the UK Cobrand journey sends from 10/26 in the report
+- For “GLO_LFC_Lifecycle - Birthday Offer Completion,” we will continue monitoring it for the next few days
+Internal: We keep an eye on NEW_GLO_LFC_2ndStayOffer10k20kReg_OTA_1423351_A1_20250408 as it will expect 0 (Raunak confirmed)

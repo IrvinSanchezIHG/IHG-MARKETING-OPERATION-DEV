@@ -587,7 +587,7 @@ WHERE
             ,'GLO_LFC_MR100NightsReg_20262702_20260624'
             ,'GLO_LFC_MR100NightsBook_20262702_20260706'
             ,'GLO_LFC_MR100NightsReg_20262702_20260624_Push'
-            ,'GLO_LFC_MR100NightsRegRem_20262702_20260702'           
+            ,'GLO_LFC_MR100NightsRegRem_20262702_20260702'
             ,'GLO_LFC_Campaign_C_NextStay_10k_20k_Bkg_20262649_20260613'
             ,'GLO_LFC_Campaign_C_NextStay10k_20k_RegRem_20262649_20260521'
             ,'DC_FINAL_IHG_RS_LFC_NEWLY_ELITE_SILVER'
@@ -595,17 +595,14 @@ WHERE
             ,'DC_FINAL_IHG_RS_LFC_NEWLY_ELITE_GOLD'
             ,'DC_FINAL_IHG_RS_LFC_NEWLY_ELITE_DIAMOND'
             ,'DC_FINAL_IHG_RS_LFC_NEWLY_ELITE_PLATINUM'
-            ,'GLO_LFC_1stStayOfferBook_1486100_B1_20250403'
-            ,'GLO_LFC_1stStayOfferBook_1486100_USEN_PUSH'
-            ,'GLO_LFC_1stStayOfferComp_1486100_T1_20250411'
-            ,'GLO_LFC_1stStayOfferReg_1486100_A1_20250331'
-            ,'GLO_LFC_1stStayOfferRegReminder_1486100_A2_20250408' 
             ,'GLO_LFC_PCSRP26K_20262701_20260518_A1'
             ,'GLO_LFC_PCSRP26K_20262701_20260518_A2'
             ,'GLO_LFC_PCSRP26K_20262701_20260518_A3'
             ,'GLO_LFC_PCSRP26L_20262701_20260518_A1'
             ,'GLO_LFC_PCSRP26L_20262701_20260518_A2'
             ,'GLO_LFC_PCSRP26L_20262701_20260518_A3'
+            ,'LIVE_GLO_LFC_UK_Cobrand_Day10_A1_20262554_20261026'
+            ,'LIVE_GLO_LFC_UK_Cobrand_Day40_A1_20262554_20261026'
 
         )
     ))
