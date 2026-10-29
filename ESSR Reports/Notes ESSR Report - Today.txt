@@ -1,6 +1,6 @@
-10/27/2026______________________________________________________________________________
+10/28/2026______________________________________________________________________________
  
-Note: The information below reflects activity reported for 10/26 and is based on data from the previous reporting day.
+Note: The information below reflects activity reported for 10/27 and is based on data from the previous reporting day.
  
 Data Team Known Issues (Expected 0 sends):
 
@@ -10,21 +10,21 @@ DigitalCheckIn_PROD (Confirmed by Kamaria. Journeys are expected to remain pause
 
 Delays - Check using query (0 in the table):
 
-- GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real Number 9,584) 
-- GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 94) 
-- GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real Number 10,143) 
-- GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real Number 6,386) 
+- GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real Number 10,077) 
+- GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 105) 
+- GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real Number 11,491) 
+- GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real Number 7,766) 
 
 0s to Review:
-- NEW_GLO_LFC_2ndStayOffer10k20kReg_OTA_1423351_A1_20250408 - Drops from 6,187 to 0 (DE has no records - is this expected?)
- 
+- GLO_LFC_NextStay_Campaign_B_10k_20k_Reg_20262649_20260514_Push - It has a delay, values are correct with the trend (Real Number 5)
+- LIVE_GLO_LFC_UK_Cobrand_Day10_A1_20262554_20261026 - It has records in DE but 0 sends, is this expected?
+
 Drops:
 
 
 Spikes:
-- GLO_LFC_Nurture_Tier_Maintain - Spikes from 802 to 1,045 (we noticed this is part of the trend)
- 
+
+
 Additional Notes: 
-- Going forward, we will include the UK Cobrand journey sends from 10/26 in the report
-- For “GLO_LFC_Lifecycle - Birthday Offer Completion,” we will continue monitoring it for the next few days
+- For “GLO_LFC_Lifecycle - Birthday Offer Completion” it returns to normal values
 Internal: We keep an eye on NEW_GLO_LFC_2ndStayOffer10k20kReg_OTA_1423351_A1_20250408 as it will expect 0 (Raunak confirmed)
