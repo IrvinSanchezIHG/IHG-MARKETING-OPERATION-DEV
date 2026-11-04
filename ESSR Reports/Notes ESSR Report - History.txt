@@ -3289,3 +3289,38 @@ Spikes:
 GLO_LFC_Milestone-Rewards_Reminder_30_20252238_20251223 - GLO_LFC_Milestone-Rewards_Reminder_20252238_20251003_ - Spike from 4,978 to 9,555 (92% increase; historical average ~4,409). Higher than recent values, but previous history shows higher-volume occurrences, so we will continue monitoring to confirm expected behavior.
 
 Additional Notes:
+
+
+11/4/2026______________________________________________________________________________
+ 
+Note: The information below reflects activity reported for 11/03 and is based on data from the previous reporting day.
+ 
+Data Team Known Issues (Expected 0 sends):
+
+New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Expected behavior)
+MCP Abandoned Cart Omni-Channel GLO_REV_AbandonBrowse_A1_SubjectC (Expected behavior)
+DigitalCheckIn_PROD (Confirmed by Kamaria. Journeys are expected to remain paused for approximately one month)
+NEW_GLO_LFC_2ndStayOffer10k20kReg_OTA_1423351_A1_20250408 (Expected behavior)
+GLO_LFC_2ndStayOffer10k20kReg_OTA_1423351_A2_20250415 (Expected behavior)
+
+Delays - Check using query (0 in the table):
+GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real Number 10,348)
+GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 96)
+GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real Number 11,422)
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real Number 7,860)
+GLO_LFC_Educate_Evergreen App - A1 - Announcement - Launch (Real Number 5,995)
+GLO_LFC_Educate_Evergreen App - A2 - Announcement - Reminder (Real Number 6,304)
+GLO_LFC_Educate_Evergreen App - B1 - Booking Reminder (Real Number 219)
+GLO_LFC_Q2MilestoneRewardsHighlight_1386000_A1_20240930 (Real Number 3,331)
+GLO_LFC_Nurture_Tier_Maintain (Real Number 548)
+
+
+0s to Review:
+
+Drops:
+LIVE_GLO_LFC_UK_Cobrand_Day10_A1_20262554_20261026 - Drop from 4,955 to 670 (86% decrease) Is this expected?
+
+Spikes:
+
+
+Additional Notes:
