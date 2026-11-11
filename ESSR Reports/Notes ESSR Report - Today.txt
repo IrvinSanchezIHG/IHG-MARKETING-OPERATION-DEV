@@ -1,9 +1,7 @@
-11/6/2026______________________________________________________________________________
-
-Note: The information below reflects activity reported for 11/05 and is based on data from the previous reporting day.
+11/10/2026______________________________________________________________________________
+Note: The information below reflects activity reported for 11/09 and is based on data from the previous reporting day.
 
 Data Team Known Issues (Expected 0 sends):
-
 New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Expected behavior)
 MCP Abandoned Cart Omni-Channel GLO_REV_AbandonBrowse_A1_SubjectC (Expected behavior)
 DigitalCheckIn_PROD (Confirmed by Kamaria. Journeys are expected to remain paused for approximately one month)
@@ -11,31 +9,35 @@ NEW_GLO_LFC_2ndStayOffer10k20kReg_OTA_1423351_A1_20250408 (Expected behavior)
 GLO_LFC_2ndStayOffer10k20kReg_OTA_1423351_A2_20250415 (Expected behavior)
 
 Delays - Check using query (0 in the table):
-GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real Number 10,827)
-GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 116)
-GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real Number 8,589)
-GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real Number 4,272)
-GLO_LFC_Educate_Evergreen App - A1 - Announcement - Launch (Real Number 5,845)
-GLO_LFC_Educate_Evergreen App - A2 - Announcement - Reminder (Real Number 7,035)
-GLO_LFC_Educate_Evergreen App - B1 - Booking Reminder (Real Number 196)
-GLO_LFC_Q2MilestoneRewardsHighlight_1386000_A1_20240930 (Real Number 2,202)
-GLO_LFC_Nurture_Tier_Maintain (Real Number 125)
+GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real Number 10,118)
+GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 125)
+GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real Number 8,741)
+GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real Number 5,589)
+GLO_LFC_Educate_Evergreen App - A1 - Announcement - Launch (Real Number 6,572)
+GLO_LFC_Educate_Evergreen App - A2 - Announcement - Reminder (Real Number 5,817)
+GLO_LFC_Educate_Evergreen App - B1 - Booking Reminder (Real Number 204)
+GLO_LFC_Q2MilestoneRewardsHighlight_1386000_A1_20240930 (Real Number 2,631)
+GLO_LFC_Nurture_Tier_Maintain (Real Number 902)
+
+0s to Review:
 
 
 Drops:
-Point_Expiration_7day_prod - GLO_LFC_Points-Expiration_7d-before - Drop from 84,555 to 11,098 (87% decrease). Current volume is significantly below the previous days range of 36,427 to 86,711, is this expected?
+Day of Stay Push_2025 - GLO_PRE_DayOfStayPush - Drop from 20,032 to 15,608 (22% decrease). Although the daily decrease is below 25%, the current volume is below the previous 21-day range of 17,999 to 32,185, but is a transactional journey.
+
 Spikes:
+
+
+Additional Notes:
+Point_Expiration_7day_prod - GLO_LFC_Points-Expiration_7d-before increased from 49,971 to 64,655, returning to its historical range after the previously reported low volume. No additional concern was identified.
 
 
 Additional Notes:
 
 
-11/6/2026______________________________________________________________________________
- 
-Note: The information below reflects activity reported for 11/05 and is based on data from the previous reporting day.
+11/10/2026______________________________________________________________________________
 
-Errors / Zeros / Spikes: None
+Note: The information below reflects activity reported for 11/09 and is based on data from the previous reporting day.
 
-Drops:
-Point_Expiration_7day_prod - GLO_LFC_Points-Expiration_7d-before - Drop from 84,555 to 11,098 (87% decrease).
+Errors / Zeros / Drops / Spikes: None
 
