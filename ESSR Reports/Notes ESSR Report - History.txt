@@ -3503,3 +3503,43 @@ Note: The information below reflects activity reported for 11/09 and is based on
 
 Errors / Zeros / Drops / Spikes: None
 
+11/11/2026______________________________________________________________________________
+Note: The information below reflects activity reported for 11/10 and is based on data from the previous reporting day.
+
+Data Team Known Issues (Expected 0 sends):
+ New_GLO_LFC_Milestone-Rewards_Expiration_ALM (Expected behavior)
+ MCP Abandoned Cart Omni-Channel GLO_REV_AbandonCart_A1_SubjectC (Expected behavior)
+ DigitalCheckIn_PROD (Confirmed by Kamaria. Journeys are expected to remain paused for approximately one month)
+ NEW_GLO_LFC_2ndStayOffer10k20kReg_OTA_1423351_A1_20250408 (Expected behavior)
+ GLO_LFC_2ndStayOffer10k20kReg_OTA_1423351_A2_20250415 (Expected behavior)
+
+Delays - Check using query (0 in the table):
+ GLO_LFC_Lifecycle_Redeemed_Reward_Night_20260210 (Real Number 10,197)
+ GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616 (Real Number 120)
+ GLO_LFC_Q2MilestoneRewardsEducation_1386000_A1_20240930 (Real Number 10,439)
+ GLO_LFC_Q2MilestoneRewardsNearly_1386000_A1_20240930 (Real Number 7,250)
+ GLO_LFC_Educate_Evergreen App - A1 - Announcement - Launch (Real Number 5,983)
+ GLO_LFC_Educate_Evergreen App - A2 - Announcement - Reminder (Real Number 5,727)
+ GLO_LFC_Educate_Evergreen App - B1 - Booking Reminder (Real Number 195)
+ GLO_LFC_Q2MilestoneRewardsHighlight_1386000_A1_20240930 (Real Number 3,144)
+ GLO_LFC_Nurture_Tier_Maintain (Real Number 344)
+
+0s to Review:
+ GLO_LFC_Milestone-Rewards_Reminder_60_20252238_20251223 - GLO_LFC_Milestone-Rewards_Reminder_20252238_20251003_ - Recorded 0 sends for the second consecutive reporting day, and the source DE (Member_Choice_Reminder_DE_Final_60) contains 0 records. Pending Raunak’s confirmation that this is expected transactional behavior; continue monitoring.
+
+Drops:
+ LIVE_GLO_LFC_UK_Cobrand_Day10_A1_20262554_20261026 - GLO_LFC_UK_Cobrand_Day10_A1_20262554_20261026 - Drop from 4,629 to 687 (85% decrease). The current volume is significantly below the recent active range of approximately 3,881–4,629
+
+Spikes:
+
+
+Additional Notes:
+ Internal: GLO_LFC_Milestone-Rewards_Reminder_60_20252238_20251223 - GLO_LFC_Milestone-Rewards_Reminder_20252238_20251003_ - Recorded 0 sends for the second consecutive reporting day, and the source DE (Member_Choice_Reminder_DE_Final_60) contains 0 records. Pending Raunak’s confirmation that this is expected transactional behavior; continue monitoring.
+
+
+11/11/2026______________________________________________________________________________
+
+Note: The information below reflects activity reported for 11/10 and is based on data from the previous reporting day.
+
+Errors / Zeros / Spikes: None
+
