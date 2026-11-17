@@ -579,8 +579,6 @@ WHERE
             ,'GLO_LFC_Campaign_A_NextStay_10K_20K_Comp_20262649_20260527'
             ,'GLO_LFC_NextStay10k_20k_Reg_20262649_20260514_Push'
             ,'GLO_LFC_Campaign_B_NextStay_10k_20kBkg_20262649_20260616'
-            ,'GLO_LFC_Campaign_B_NextStay_10k_20kReg_20262649_20260613'
-            ,'GLO_LFC_NextStay_Campaign_B_10k_20k_Reg_20262649_20260514_Push'
             ,'GLO_LFC_Campaign_B_NextStay_10k_20kCompB_20262649_20260626'
             ,'GLO_LFC_PtsReinstateL25_20262787_20260618'
             ,'GLO_LFC_PtsReinstateM25_20262787_20260618'
